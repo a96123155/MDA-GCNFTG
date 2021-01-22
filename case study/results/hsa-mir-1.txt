@@ -1,0 +1,24 @@
+	Line 6148: miRNA = hsa-mir-1  ||  disease_of_miRNA = Reperfusion Injury
+	Line 9092: miRNA = hsa-mir-1  ||  disease_of_miRNA = Pancreatic Neoplasms
+	Line 10914: miRNA = hsa-mir-1  ||  disease_of_miRNA = Neuroblastoma
+	Line 12054: miRNA = hsa-mir-1  ||  disease_of_miRNA = Neoplasms
+	Line 13453: miRNA = hsa-mir-1  ||  disease_of_miRNA = Myocytes, Cardiac
+	Line 14125: miRNA = hsa-mir-1  ||  disease_of_miRNA = Muscular Disorders, Atrophic
+	Line 15175: miRNA = hsa-mir-1  ||  disease_of_miRNA = Mesothelioma
+	Line 18636: miRNA = hsa-mir-1  ||  disease_of_miRNA = Leukemia, Myeloid, Acute
+	Line 26027: miRNA = hsa-mir-1  ||  disease_of_miRNA = Glioblastoma
+	Line 27569: miRNA = hsa-mir-1  ||  disease_of_miRNA = Esophageal Neoplasms
+	Line 34273: miRNA = hsa-mir-1  ||  disease_of_miRNA = Cardiomyopathy, Dilated
+	Line 36636: miRNA = hsa-mir-1  ||  disease_of_miRNA = Carcinoma, Renal Cell
+	Line 41008: miRNA = hsa-mir-1  ||  disease_of_miRNA = Carcinoma
+	Line 42995: miRNA = hsa-mir-1  ||  disease_of_miRNA = Atrial Fibrillation
+	Line 45058: miRNA = hsa-mir-1  ||  disease_of_miRNA = Adenocarcinoma
+	
+TpTd	
+	Line 18384: miRNA = hsa-mir-1  ||  disease_of_miRNA = Myocardial Reperfusion Injury
+	Line 19583: miRNA = hsa-mir-1  ||  disease_of_miRNA = Muscular Dystrophy, Facioscapulohumeral
+	Line 31443: miRNA = hsa-mir-1  ||  disease_of_miRNA = Inflammation
+	Line 40186: miRNA = hsa-mir-1  ||  disease_of_miRNA = Gastric Neoplasms
+	Line 52874: miRNA = hsa-mir-1  ||  disease_of_miRNA = Carcinoma, Hepatocellular
+	Line 18954: miRNA = hsa-mir-1  ||  disease_of_miRNA = Leukemia
+	Line 20521: miRNA = hsa-mir-1  ||  disease_of_miRNA = Hepatitis, Chronic

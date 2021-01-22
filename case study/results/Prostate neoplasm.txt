@@ -1,0 +1,16 @@
+E:\16_GNN\miRNA-disease\case study\case_study_Tp_unbalanced.txt (3 hits)
+	Line 7523: miRNA = hsa-mir-203  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 7549: miRNA = hsa-mir-200b  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 7579: miRNA = hsa-mir-101  ||  disease_of_miRNA = Prostate Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Tm_unbalanced.txt (2 hits)
+	Line 7563: miRNA = hsa-mir-203  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 7589: miRNA = hsa-mir-378a  ||  disease_of_miRNA = Prostate Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Td_unbalanced.txt (5 hits)
+	Line 10041: miRNA = hsa-mir-210  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 10086: miRNA = hsa-mir-324  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 10154: miRNA = hsa-mir-331  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 10173: miRNA = hsa-mir-1256  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 10186: miRNA = hsa-mir-378h  ||  disease_of_miRNA = Prostate Neoplasms
+	Line 9695: miRNA = hsa-mir-203  ||  disease_of_miRNA = Prostatic Neoplasms
+	Line 9721: miRNA = hsa-mir-130b  ||  disease_of_miRNA = Prostatic Neoplasms
+	Line 9961: miRNA = hsa-mir-320a  ||  disease_of_miRNA = Prostatic Neoplasms

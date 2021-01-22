@@ -1,0 +1,58 @@
+E:\16_GNN\miRNA-disease\case study\case_study_Tp_unbalanced.txt (18 hits)
+	Line 38753: miRNA = hsa-mir-142  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38777: miRNA = hsa-mir-192  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38798: miRNA = hsa-mir-98  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38815: miRNA = hsa-mir-106a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38836: miRNA = hsa-mir-130a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38869: miRNA = hsa-mir-30e  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38885: miRNA = hsa-mir-181c  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38899: miRNA = hsa-mir-92b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38914: miRNA = hsa-mir-15b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38941: miRNA = hsa-mir-99a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38965: miRNA = hsa-mir-212  ||  disease_of_miRNA = Breast Neoplasms
+	Line 38981: miRNA = hsa-mir-150  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39004: miRNA = hsa-mir-330  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39018: miRNA = hsa-mir-372  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39038: miRNA = hsa-mir-449b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39051: miRNA = hsa-mir-138  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39070: miRNA = hsa-mir-378a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 39087: miRNA = hsa-mir-198  ||  disease_of_miRNA = Breast Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Tm_unbalanced.txt (20 hits)
+	Line 41738: miRNA = hsa-mir-130a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41763: miRNA = hsa-mir-192  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41784: miRNA = hsa-mir-15b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41811: miRNA = hsa-mir-106a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41843: miRNA = hsa-mir-99a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41867: miRNA = hsa-mir-30e  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41882: miRNA = hsa-mir-574  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41897: miRNA = hsa-mir-181c  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41911: miRNA = hsa-mir-142  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41935: miRNA = hsa-mir-150  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41958: miRNA = hsa-mir-185  ||  disease_of_miRNA = Breast Neoplasms
+	Line 41976: miRNA = hsa-mir-372  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42025: miRNA = hsa-mir-32  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42040: miRNA = hsa-mir-144  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42056: miRNA = hsa-mir-130b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42075: miRNA = hsa-mir-98  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42092: miRNA = hsa-mir-449b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42105: miRNA = hsa-mir-212  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42137: miRNA = hsa-mir-196b  ||  disease_of_miRNA = Breast Neoplasms
+	Line 42170: miRNA = hsa-mir-330  ||  disease_of_miRNA = Breast Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Td_unbalanced.txt (11 hits)
+	Line 55138: miRNA = hsa-mir-520g  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55145: miRNA = hsa-mir-3196  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55164: miRNA = hsa-mir-127  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55186: miRNA = hsa-mir-584  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55196: miRNA = hsa-mir-489  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55211: miRNA = hsa-mir-18a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55246: miRNA = hsa-mir-106a  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55279: miRNA = hsa-mir-519d  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55289: miRNA = hsa-mir-34c  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55314: miRNA = hsa-mir-98  ||  disease_of_miRNA = Breast Neoplasms
+	Line 55331: miRNA = hsa-mir-25  ||  disease_of_miRNA = Breast Neoplasms
+Td	
+tn = 454, fp = 17, fn = 9, tp = 15
+y_pred: 0 = 463 | 1 = 32
+y_true: 0 = 471 | 1 = 24
+acc=0.9475|precision=0.4688|recall=0.6250|f1=0.5357|auc=0.9354|aupr=0.3781|pos_acc=0.6250|neg_acc=0.9806
+0.9475, 0.4688, 0.6250, 0.5357, 0.9354, 0.3781, 0.6710, 0.6992, 0.4569

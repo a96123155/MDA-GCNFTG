@@ -1,0 +1,391 @@
+-------------------------0-th new MDA--------------------------------------------
+miRNA = hsa-mir-551a  ||  disease_of_miRNA = Waldenstrom Macroglobulinemia
+Waldenstrom -->  [] 
+
+Macroglobulinemia -->  [] 
+
+-------------------------1-th new MDA--------------------------------------------
+miRNA = hsa-mir-611  ||  disease_of_miRNA = Waldenstrom Macroglobulinemia
+Waldenstrom -->  [] 
+
+Macroglobulinemia -->  [] 
+
+-------------------------2-th new MDA--------------------------------------------
+miRNA = hsa-mir-324  ||  disease_of_miRNA = Vascular Calcification
+Vascular -->  [] 
+
+Calcification -->  [] 
+
+-------------------------3-th new MDA--------------------------------------------
+miRNA = hsa-mir-371a  ||  disease_of_miRNA = Vascular Calcification
+Vascular -->  [] 
+
+Calcification -->  [] 
+
+-------------------------4-th new MDA--------------------------------------------
+miRNA = hsa-mir-300  ||  disease_of_miRNA = Sepsis
+Sepsis -->  [] 
+
+-------------------------5-th new MDA--------------------------------------------
+miRNA = hsa-mir-10b  ||  disease_of_miRNA = Sepsis
+Sepsis -->  [] 
+
+-------------------------6-th new MDA--------------------------------------------
+miRNA = hsa-mir-146a  ||  disease_of_miRNA = Salivary Gland Neoplasms
+Salivary -->  [] 
+
+Gland -->  [] 
+
+Neoplasms -->  
+ 24%|██▎       | 12/51 [00:00<00:01, 25.51it/s]
+[['hsa-mir-146a' nan 'Pancreatic Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Prostate Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Gastric Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Breast Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Thyroid Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Ovarian Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Gastrointestinal Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Esophageal Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Nasopharyngeal Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Lung Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Digestive System Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Neoplasms [unspecific]' nan]
+ ['hsa-mir-146a' nan 'Skin Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Endometrial Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Head And Neck Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Bladder Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Cervical Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Colon Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Liver Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Prostatic Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Uterine Cervical Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Colonic Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Stomach Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Urinary Bladder Neoplasms' nan]
+ ['hsa-mir-146a' nan 'Colorectal Neoplasms' nan]] 
+
+-------------------------7-th new MDA--------------------------------------------
+miRNA = hsa-mir-15a  ||  disease_of_miRNA = Salivary Gland Neoplasms
+Salivary -->  [['hsa-mir-15a' nan 'Salivary Gland Neoplasms' nan]] 
+
+Gland -->  [['hsa-mir-15a' nan 'Salivary Gland Neoplasms' nan]] 
+
+Neoplasms -->  [['hsa-mir-15a' nan 'Pituitary Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Prostate Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Kidney Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Breast Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Neoplasms [unspecific]' nan]
+ ['hsa-mir-15a' nan 'Hematologic Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Gastric Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Colon Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Laryngeal Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Head And Neck Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Lung Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Myeloproliferative Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Pancreatic Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Salivary Gland Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Bladder Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Esophageal Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Prostatic Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Head and Neck Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Colonic Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Urinary Bladder Neoplasms' nan]
+ ['hsa-mir-15a' nan 'Neoplasms' nan]] 
+
+-------------------------8-th new MDA--------------------------------------------
+miRNA = hsa-mir-589  ||  disease_of_miRNA = Salivary Gland Neoplasms
+Salivary -->  [] 
+
+Gland -->  [] 
+
+Neoplasms -->  [['hsa-mir-589' nan 'Gastric Neoplasms' nan]] 
+
+-------------------------9-th new MDA--------------------------------------------
+miRNA = hsa-mir-378c  ||  disease_of_miRNA = Renal Insufficiency
+Renal -->  [['hsa-mir-378c' nan 'Carcinoma, Renal Cell' nan]] 
+
+Insufficiency -->  [] 
+
+-------------------------10-th new MDA--------------------------------------------
+miRNA = hsa-mir-518a  ||  disease_of_miRNA = Pulmonary Disease, Chronic Obstructive
+Pulmonary -->  [] 
+
+Disease, -->  [] 
+
+Chronic -->  [] 
+
+Obstructive -->  [] 
+
+-------------------------11-th new MDA--------------------------------------------
+miRNA = hsa-mir-641  ||  disease_of_miRNA = Papilary thyroid carcinoma
+Papilary -->  [] 
+
+thyroid -->  [] 
+
+carcinoma -->  [] 
+
+-------------------------12-th new MDA--------------------------------------------
+miRNA = hsa-mir-561  ||  disease_of_miRNA = Osteoporosis
+Osteoporosis -->  [] 
+
+-------------------------13-th new MDA--------------------------------------------
+miRNA = hsa-mir-410  ||  disease_of_miRNA = Osteoporosis
+Osteoporosis -->  [] 
+
+-------------------------14-th new MDA--------------------------------------------
+miRNA = hsa-mir-1280  ||  disease_of_miRNA = Osteoarthritis
+Osteoarthritis -->  [] 
+
+-------------------------15-th new MDA--------------------------------------------
+miRNA = hsa-mir-647  ||  disease_of_miRNA = Osteoarthritis
+Osteoarthritis 
+ 51%|█████     | 26/51 [00:00<00:00, 34.11it/s]
+-->  [] 
+
+-------------------------16-th new MDA--------------------------------------------
+miRNA = hsa-mir-18a  ||  disease_of_miRNA = Neurofibromatosis 2
+Neurofibromatosis -->  [] 
+
+2 -->  [['hsa-mir-18a' nan 'Diabetes Mellitus, Type 2' nan]] 
+
+-------------------------17-th new MDA--------------------------------------------
+miRNA = hsa-mir-431  ||  disease_of_miRNA = Myocytes, Cardiac
+Myocytes, -->  [] 
+
+Cardiac -->  [] 
+
+-------------------------18-th new MDA--------------------------------------------
+miRNA = hsa-mir-181d  ||  disease_of_miRNA = Musculoskeletal Abnormalities
+Musculoskeletal -->  [] 
+
+Abnormalities -->  [] 
+
+-------------------------19-th new MDA--------------------------------------------
+miRNA = hsa-mir-769  ||  disease_of_miRNA = Mastocytosis, Systemic
+Mastocytosis, -->  [] 
+
+Systemic -->  [] 
+
+-------------------------20-th new MDA--------------------------------------------
+miRNA = hsa-mir-151a  ||  disease_of_miRNA = Lung Diseases
+Lung -->  [['hsa-mir-151a' nan 'Carcinoma, Lung, Non-Small-Cell' nan]
+ ['hsa-mir-151a' nan 'Adenocarcinoma, Lung' nan]
+ ['hsa-mir-151a' nan 'Carcinoma, Non-Small-Cell Lung' nan]] 
+
+Diseases -->  [['hsa-mir-151a' nan 'Cardiovascular Diseases [unspecific]' nan]] 
+
+-------------------------21-th new MDA--------------------------------------------
+miRNA = hsa-mir-661  ||  disease_of_miRNA = Leukemia, Promyelocytic, Acute
+Leukemia, -->  [] 
+
+Promyelocytic, -->  [] 
+
+Acute -->  [] 
+
+-------------------------22-th new MDA--------------------------------------------
+miRNA = hsa-mir-2861  ||  disease_of_miRNA = Leukemia, B-Cell
+Leukemia, -->  [] 
+
+B-Cell -->  [] 
+
+-------------------------23-th new MDA--------------------------------------------
+miRNA = hsa-mir-641  ||  disease_of_miRNA = Leiomyosarcoma
+Leiomyosarcoma -->  [] 
+
+-------------------------24-th new MDA--------------------------------------------
+miRNA = hsa-mir-655  ||  disease_of_miRNA = Kidney Neoplasms
+Kidney -->  [] 
+
+Neoplasms -->  [['hsa-mir-655' nan 'Pituitary Neoplasms' nan]] 
+
+-------------------------25-th new MDA--------------------------------------------
+miRNA = hsa-mir-614  ||  disease_of_miRNA = Kidney Failure, Acute
+Kidney -->  [] 
+
+Failure, -->  [] 
+
+Acute -->  [] 
+
+-------------------------26-th new MDA--------------------------------------------
+ 61%|██████    | 31/51 [00:00<00:00, 34.83it/s]
+miRNA = hsa-mir-516a  ||  disease_of_miRNA = Ischemic Preconditioning
+Ischemic -->  [] 
+
+Preconditioning -->  [] 
+
+-------------------------27-th new MDA--------------------------------------------
+miRNA = hsa-mir-29a  ||  disease_of_miRNA = Huntington Disease
+Huntington -->  [] 
+
+Disease -->  [['hsa-mir-29a' nan 'Parkinson Disease' nan]
+ ['hsa-mir-29a' nan 'Alzheimer Disease' nan]
+ ['hsa-mir-29a' nan 'Machado-Joseph Disease' nan]
+ ['hsa-mir-29a' nan 'Liver Diseases [unspecific]' nan]
+ ['hsa-mir-29a' nan 'Crohn Disease' nan]
+ ['hsa-mir-29a' nan 'Kidney Diseases [unspecific]' nan]
+ ['hsa-mir-29a' nan 'Vascular Disease [unspecific]' nan]
+ ['hsa-mir-29a' nan 'Heart Valve Disease' nan]
+ ['hsa-mir-29a' nan 'Mitochondrial Metabolism Disease' nan]
+ ['hsa-mir-29a' nan 'Autoimmune Diseases [unspecific]' nan]
+ ['hsa-mir-29a' nan 'Kidney Diseases' nan]
+ ['hsa-mir-29a' nan 'Liver Diseases' nan]] 
+
+-------------------------28-th new MDA--------------------------------------------
+miRNA = hsa-mir-190a  ||  disease_of_miRNA = Hepatitis C
+Hepatitis -->  [] 
+
+C -->  [['hsa-mir-190a' nan 'Carcinoma, Breast, Triple Negative' nan]
+ ['hsa-mir-190a' nan 'Carcinoma, Hepatocellular' nan]
+ ['hsa-mir-190a' nan 'Colorectal Carcinoma' nan]
+ ['hsa-mir-190a' nan 'Colorectal Neoplasms' nan]] 
+
+-------------------------29-th new MDA--------------------------------------------
+miRNA = hsa-mir-1245a  ||  disease_of_miRNA = Hepatitis
+Hepatitis -->  [] 
+
+-------------------------30-th new MDA--------------------------------------------
+miRNA = hsa-mir-324  ||  disease_of_miRNA = Hemangiosarcoma
+Hemangiosarcoma -->  [] 
+
+-------------------------31-th new MDA--------------------------------------------
+miRNA = hsa-mir-532  ||  disease_of_miRNA = Hand, Foot and Mouth Disease
+Hand, -->  [] 
+
+Foot -->  [] 
+
+and -->  [] 
+
+Mouth -->  [] 
+
+Disease -->  [['hsa-mir-532' nan 'Alzheimer Disease' nan]
+ ['hsa-mir-532' nan 'Crohn Disease' nan]] 
+
+-------------------------32-th new MDA--------------------------------------------
+miRNA = hsa-mir-622  ||  disease_of_miRNA = Graves Disease
+Graves -->  [] 
+
+Disease -->  [] 
+
+-------------------------33-th new MDA--------------------------------------------
+miRNA = hsa-mir-758  ||  disease_of_miRNA = Graft vs Host Disease
+Graft -->  [] 
+
+vs -->  [] 
+
+Host -->  [] 
+
+Disease -->  [['hsa-mir-758' nan 'Cardiovascular Diseases [unspecific]' nan]] 
+
+-------------------------34-th new MDA--------------------------------------------
+miRNA = hsa-mir-320a  ||  disease_of_miRNA = Glomerulonephritis, IGA
+Glomerulonephritis, -->  [] 
+
+IGA -->  [] 
+
+-------------------------35-th new MDA--------------------------------------------
+miRNA = hsa-mir-941  ||  disease_of_miRNA = Fibrosis
+100%|██████████| 51/51 [00:00<00:00, 52.70it/s]
+Fibrosis -->  [] 
+
+-------------------------36-th new MDA--------------------------------------------
+miRNA = hsa-mir-423  ||  disease_of_miRNA = Endometriosis
+Endometriosis -->  [] 
+
+-------------------------37-th new MDA--------------------------------------------
+miRNA = hsa-mir-15b  ||  disease_of_miRNA = Diabetic Nephropathies
+Diabetic -->  [['hsa-mir-15b' nan 'Diabetic Nephropathy' nan]] 
+
+Nephropathies -->  [] 
+
+-------------------------38-th new MDA--------------------------------------------
+miRNA = hsa-mir-378f  ||  disease_of_miRNA = Diabetes Complications
+Diabetes -->  [] 
+
+Complications -->  [] 
+
+-------------------------39-th new MDA--------------------------------------------
+miRNA = hsa-mir-198  ||  disease_of_miRNA = Cystic Fibrosis
+Cystic -->  [] 
+
+Fibrosis -->  [] 
+
+-------------------------40-th new MDA--------------------------------------------
+miRNA = hsa-mir-1184  ||  disease_of_miRNA = Colorectal Neoplasms, Hereditary Nonpolyposis
+Colorectal -->  [] 
+
+Neoplasms, -->  [] 
+
+Hereditary -->  [] 
+
+Nonpolyposis -->  [] 
+
+-------------------------41-th new MDA--------------------------------------------
+miRNA = hsa-mir-494  ||  disease_of_miRNA = Colitis, Ulcerative
+Colitis, -->  [] 
+
+Ulcerative -->  [] 
+
+-------------------------42-th new MDA--------------------------------------------
+miRNA = hsa-mir-424  ||  disease_of_miRNA = Chondrodysplasia Punctata
+Chondrodysplasia -->  [] 
+
+Punctata -->  [] 
+
+-------------------------43-th new MDA--------------------------------------------
+miRNA = hsa-mir-655  ||  disease_of_miRNA = Carcinoma, Squamous Cell
+Carcinoma, -->  [['hsa-mir-655' nan 'Carcinoma, Renal Cell' nan]
+ ['hsa-mir-655' nan 'Squamous Cell Carcinoma, Oral' nan]
+ ['hsa-mir-655' nan 'Carcinoma, Hepatocellular' nan]
+ ['hsa-mir-655' nan 'Squamous Cell Carcinoma, Esophageal' nan]] 
+
+Squamous -->  [['hsa-mir-655' nan 'Squamous Cell Carcinoma, Oral' nan]
+ ['hsa-mir-655' nan 'Squamous Cell Carcinoma, Esophageal' nan]] 
+
+Cell -->  [['hsa-mir-655' nan 'Carcinoma, Renal Cell' nan]
+ ['hsa-mir-655' nan 'Squamous Cell Carcinoma, Oral' nan]
+ ['hsa-mir-655' nan 'Squamous Cell Carcinoma, Esophageal' nan]] 
+
+-------------------------44-th new MDA--------------------------------------------
+miRNA = hsa-mir-365b  ||  disease_of_miRNA = Carcinoma, Ductal, Breast
+Carcinoma, -->  [['hsa-mir-365b' nan 'Carcinoma, Renal Cell' nan]
+ ['hsa-mir-365b' nan 'Carcinoma, Hepatocellular' nan]] 
+
+Ductal, -->  [] 
+
+Breast -->  [['hsa-mir-365b' nan 'Breast Neoplasms' nan]] 
+
+-------------------------45-th new MDA--------------------------------------------
+miRNA = hsa-mir-154  ||  disease_of_miRNA = Burns
+Burns -->  [] 
+
+-------------------------46-th new MDA--------------------------------------------
+miRNA = hsa-mir-30d  ||  disease_of_miRNA = Atrophy
+Atrophy -->  [] 
+
+-------------------------47-th new MDA--------------------------------------------
+miRNA = hsa-mir-30e  ||  disease_of_miRNA = Aortic Aneurysm, Abdominal
+Aortic -->  [['hsa-mir-30e' nan 'Aortic Aneurysm, Thoracic' nan]] 
+
+Aneurysm, -->  [['hsa-mir-30e' nan 'Aortic Aneurysm, Thoracic' nan]] 
+
+Abdominal -->  [] 
+
+-------------------------48-th new MDA--------------------------------------------
+miRNA = hsa-mir-410  ||  disease_of_miRNA = Alzheimer Disease
+Alzheimer -->  [] 
+
+Disease -->  [['hsa-mir-410' nan 'Pelvic Inflammatory Disease' nan]] 
+
+-------------------------49-th new MDA--------------------------------------------
+miRNA = hsa-mir-630  ||  disease_of_miRNA = Alopecia
+Alopecia -->  [] 
+
+-------------------------50-th new MDA--------------------------------------------
+miRNA = hsa-mir-451b  ||  disease_of_miRNA = Acute Lung Injury
+Acute -->  [] 
+
+Lung -->  [['hsa-mir-451b' nan 'Carcinoma, Lung, Non-Small-Cell' nan]
+ ['hsa-mir-451b' nan 'Carcinoma, Non-Small-Cell Lung' nan]] 
+
+Injury -->  [] 

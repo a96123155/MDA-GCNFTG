@@ -1,0 +1,14 @@
+Line 463: miRNA = hsa-let-7a  ||  disease_of_miRNA = Uterine Cervical Neoplasms
+Line 2869: miRNA = hsa-let-7a  ||  disease_of_miRNA = Thyroid Neoplasms
+Line 5389: miRNA = hsa-let-7a  ||  disease_of_miRNA = Sarcoma, Ewing
+Line 7843: miRNA = hsa-let-7a  ||  disease_of_miRNA = Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Line 31936: miRNA = hsa-let-7a  ||  disease_of_miRNA = Carcinoma, Squamous Cell
+	
+TPTD	
+	Line 17031: miRNA = hsa-let-7a  ||  disease_of_miRNA = Liver Neoplasms
+	Line 17581: miRNA = hsa-let-7a  ||  disease_of_miRNA = Lichen Planus, Oral
+	Line 25502: miRNA = hsa-let-7a  ||  disease_of_miRNA = Liver Cirrhosis
+	Line 28565: miRNA = hsa-let-7a  ||  disease_of_miRNA = Leukemia
+	Line 29093: miRNA = hsa-let-7a  ||  disease_of_miRNA = Laryngeal Neoplasms
+	Line 15277: miRNA = hsa-let-7a  ||  disease_of_miRNA = Lymphoma, T-Cell
+	

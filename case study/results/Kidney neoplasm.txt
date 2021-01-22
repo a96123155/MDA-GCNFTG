@@ -1,0 +1,12 @@
+E:\16_GNN\miRNA-disease\case study\case_study_Tp_unbalanced.txt (2 hits)
+	Line 19433: miRNA = hsa-mir-200b  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 19462: miRNA = hsa-mir-205  ||  disease_of_miRNA = Kidney Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Tm_unbalanced.txt (2 hits)
+	Line 20608: miRNA = hsa-mir-200b  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 20657: miRNA = hsa-mir-15b  ||  disease_of_miRNA = Kidney Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Td_unbalanced.txt (5 hits)
+	Line 29207: miRNA = hsa-mir-155  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 29245: miRNA = hsa-mir-204  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 29297: miRNA = hsa-mir-26a  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 29426: miRNA = hsa-mir-26b  ||  disease_of_miRNA = Kidney Neoplasms
+	Line 29460: miRNA = hsa-mir-146a  ||  disease_of_miRNA = Kidney Neoplasms

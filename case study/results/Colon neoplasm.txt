@@ -1,0 +1,31 @@
+E:\16_GNN\miRNA-disease\case study\case_study_Tp_unbalanced.txt (8 hits)
+	Line 31252: miRNA = hsa-mir-19b  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31264: miRNA = hsa-mir-15b  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31308: miRNA = hsa-mir-148a  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31330: miRNA = hsa-mir-101  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31348: miRNA = hsa-mir-16  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31369: miRNA = hsa-mir-143  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31402: miRNA = hsa-mir-223  ||  disease_of_miRNA = Colon Neoplasms
+	Line 31430: miRNA = hsa-mir-20a  ||  disease_of_miRNA = Colon Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Tm_unbalanced.txt (3 hits)
+	Line 33832: miRNA = hsa-mir-19b  ||  disease_of_miRNA = Colon Neoplasms
+	Line 33844: miRNA = hsa-mir-34a  ||  disease_of_miRNA = Colon Neoplasms
+	Line 33879: miRNA = hsa-mir-155  ||  disease_of_miRNA = Colon Neoplasms
+  E:\16_GNN\miRNA-disease\case study\case_study_Td_unbalanced.txt (12 hits)
+	Line 47174: miRNA = hsa-mir-125a  ||  disease_of_miRNA = Colonic Neoplasms
+	Line 47281: miRNA = hsa-let-7e  ||  disease_of_miRNA = Colonic Neoplasms
+	Line 47302: miRNA = hsa-mir-32  ||  disease_of_miRNA = Colonic Neoplasms
+	Line 47361: miRNA = hsa-mir-200b  ||  disease_of_miRNA = Colonic Neoplasms
+	Line 47400: miRNA = hsa-mir-506  ||  disease_of_miRNA = Colonic Neoplasms
+	Line 47486: miRNA = hsa-mir-301b  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47535: miRNA = hsa-let-7d  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47557: miRNA = hsa-mir-296  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47602: miRNA = hsa-mir-96  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47622: miRNA = hsa-mir-1297  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47635: miRNA = hsa-mir-26b  ||  disease_of_miRNA = Colon Neoplasms
+	Line 47651: miRNA = hsa-mir-22  ||  disease_of_miRNA = Colon Neoplasms
+ 
+ 
+ 
+ = Colon.* Neoplasms
+Colon.* -->  \[\[

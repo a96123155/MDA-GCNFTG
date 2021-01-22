@@ -1,0 +1,16 @@
+	Line 3192: miRNA = hsa-let-7b  ||  disease_of_miRNA = Thyroid Neoplasms
+	Line 5636: miRNA = hsa-let-7b  ||  disease_of_miRNA = ["Sarcoma, Ewing's"]
+	Line 8629: miRNA = hsa-let-7b  ||  disease_of_miRNA = Periodontitis
+	Line 15089: miRNA = hsa-let-7b  ||  disease_of_miRNA = Mesothelioma
+	Line 26023: miRNA = hsa-let-7b  ||  disease_of_miRNA = Glioblastoma
+	Line 26613: miRNA = hsa-let-7b  ||  disease_of_miRNA = Gastrointestinal Neoplasms
+	Line 35467: miRNA = hsa-let-7b  ||  disease_of_miRNA = Carcinoma
+	Line 35894: miRNA = hsa-let-7b  ||  disease_of_miRNA = Carcinoma, Small Cell
+	Line 45099: miRNA = hsa-let-7b  ||  disease_of_miRNA = Adenocarcinoma
+	Line 45361: miRNA = hsa-let-7b  ||  disease_of_miRNA = Pituitary Adenoma
+TdTp	
+	Line 15605: miRNA = hsa-let-7b  ||  disease_of_miRNA = Lymphoma
+	Line 17653: miRNA = hsa-let-7b  ||  disease_of_miRNA = Leukemia-Lymphoma, Adult T-Cell
+	Line 8363: miRNA = hsa-let-7b  ||  disease_of_miRNA = Reperfusion Injury
+	Line 10572: miRNA = hsa-let-7b  ||  disease_of_miRNA = Pre-Eclampsia
+	Line 43007: miRNA = hsa-let-7b  ||  disease_of_miRNA = Endometrial Neoplasms 
