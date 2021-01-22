@@ -27,7 +27,7 @@ python MDA-GKNN/setup.py build_ext --inplace
 ### prediction results folder
 The MDA prediction results on six tasks, which contain y_train, y_test, y_train_pred, y_test_pred
 
-###case study folder
+### case study folder
 - *.ipynb: Do the case study
 - database_file汇总：all MDA data from HMDD V3.2, miR2Disease, dbDEMC databases
 #### results folder
