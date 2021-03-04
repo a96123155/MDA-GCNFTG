@@ -1,0 +1,177 @@
+disease name in original paper	disease ontology ID
+
+Abdominal Aortic Aneurysm	DOID:7693
+acute lymphoblastic leukemia (ALL)	DOID:9952
+acute myeloid leukemia (AML)	DOID:9119
+acute myocardial infarction	DOID:9408
+acute promyelocytic leukemia (APL)	DOID:9119
+adenoma	DOID:657
+adrenocortical carcinoma	DOID:3948
+alcoholic liver disease (ALD)	DOID:9454
+Alzheimer's disease	DOID:10652
+anaplastic thyroid carcinoma (ATC)	DOID:7012
+anxiety disorder	DOID:2030
+asthma	DOID:2841
+Astrocytoma	DOID:3069
+Atopic Dermatitis	DOID:3310
+autism spectrum disorder (ASD)	DOID:1208
+B-cell chronic lymphocytic leukemia	DOID:1040
+B-cell lymphoma	DOID:353
+Becker muscular dystrophy (BMD)	DOID:14691
+bladder cancer	DOID:4007
+Brain Neoplasm	DOID:1319
+breast cancer	DOID:3459
+Burkitt lymphoma	DOID:8584
+cardiac hypertrophy	DOID:11984
+cardiomyopathy	DOID:3978
+Cardiovascular Disease	DOID:2348
+Cerebellar neurodegeneration	DOID:2786
+cervical cancer	DOID:2893
+cholangiocarcinoma	DOID:4947
+cholesteatoma	DOID:869
+choriocarcinoma	DOID:3594 
+chronic lymphocytic leukemia (CLL)	DOID:1040
+chronic myeloid leukemia (CML)	DOID:8552
+chronic pancreatitis	DOID:13315
+Colon Carcinoma	DOID:1520
+colorectal cancer	DOID:1985
+congenital heart disease	DOID:114
+coronary artery disease	DOID:3363
+Cowden Syndrome	DOID:3471
+dermatomyositis (DM)	DOID:10223
+Diabetic Nephropathy	DOID:2370
+diarrhea predominant irritable bowel syndrome (IBS-D)	DOID:9778
+diffuse large B-cell lymphoma (DLBCL)	DOID:353
+Dilated Cardiomyopathy	DOID:12930
+Down syndrome (DS)	DOID:14250
+Duchenne muscular dystrophy (DMD)	DOID:14691
+endometrial cancer	DOID:2871
+Endometrial Endometrioid Adenocarcinoma	DOID:5827
+Endometriosis	DOID:289
+epithelial ovarian cancer (EOC)	DOID:4001
+esophageal cancer	DOID:1107
+Esophagus squamous cell carcinoma	DOID:3748
+essential thrombocythemia (ET)	DOID:2224
+facioscapulohumeral muscular dystrophy (FSHD)	DOID:11727
+follicular lymphoma (FL)	DOID:8524
+follicular thyroid carcinoma (FTC)	DOID:3962
+frontotemporal dementia	DOID:10216
+gastric cancer (stomach cancer)	DOID:5517
+glioblastoma	DOID:3068
+glioblastoma multiforme (GBM)	DOID:3073
+glioma	DOID:2627
+glomerular disease	DOID:2976
+Glomerulosclerosis	DOID:3945
+hamartoma	DOID:3462
+HBV-related cirrhosis	DOID:5082
+HCV infection	DOID:7324
+head and neck cancer	DOID:11934
+head and neck squamous cell carcinoma (HNSCC)	DOID:5520
+hearing loss	DOID:10004
+Heart Disease	DOID:114
+heart failure	DOID:6000
+Hepatitis B	DOID:2043
+Hepatitis C	DOID:1883
+hepatocellular carcinoma (HCC)	DOID:684
+Hilar Cholangiocarcinoma	DOID:4927
+Hodgkin's lymphoma	DOID:8567
+homozygous sickle cell disease (HbSS)	DOID:10923
+Huntington's disease (HD)	DOID:12858
+Hypertension	DOID:10763
+Hypopharyngeal cancer	DOID:8532
+Inclusion body myositis (IBM)	DOID:3429
+Insulinoma	DOID:3903
+Intrahepatic cholangiocarcinoma (ICC)	DOID:4928
+kidney cancer	DOID:4451
+Kidney Disease	DOID:557
+laryngeal carcinoma	DOID:6624 
+Late Insomnia (sleep disease DOID:535)	DOID:535
+Leiomyoma of lung	DOID:5136
+Leukemia	DOID:1240
+limb-girdle muscular dystrophies types 2A (LGMD2A)	DOID:11724
+lipoma	DOID:9291
+Lung Adenocarcinoma	DOID:3910
+lung cancer	DOID:3905
+lymphoproliferative disease	DOID:619
+malignant lymphoma	DOID:353
+malignant melanoma	DOID:1909
+Malignant mesothelioma (MM)	DOID:1790
+mantle cell lymphoma (MCL)	DOID:353
+medulloblastoma 	DOID:3858
+melanoma	DOID:1909
+meningioma	DOID:3565
+metabolic disease	DOID:14667
+miyoshi myopathy (MM)	DOID:423
+multiple myeloma (MM)	DOID:9538
+multiple sclerosis	DOID:2377
+MYC-rearranged lymphoma	DOID:353
+Myelodysplastic Syndrome	DOID:4972
+myeloproliferative disorder	DOID:2356
+myocardial infarction	DOID:5844
+myocardial injury	DOID:12931
+myoma	DOID:2691
+nasopharyngeal carcinoma (NPC)	DOID:9261
+nemaline myopathy (NM)	DOID:3191
+Nephritis	DOID:10952
+neuroblastoma (NB)	DOID:769
+neutrophilia	is_obsolete
+Niemann-Pick type C (NPC) disease	DOID:14770
+non-alcoholic fatty liver disease (NAFLD)	DOID:46
+non-small cell lung cancer (NSCLC)	DOID:3908
+Obesity	DOID:9970
+Oesophageal adenocarcinoma	DOID:4914
+Oral Carcinoma	DOID:8894
+osteosarcoma	DOID:3347
+ovarian cancer (OC)	DOID:2144
+pancreatic cancer	DOID:4905
+pancreatic ductal adenocarcinoma (PDAC)	DOID:3498
+Pancreatic Neoplasia	DOID:3588
+Panic Disease	DOID:594
+papillary thyroid carcinoma (PTC)	DOID:3969
+Parkinson's disease	DOID:14330
+PFV-1 infection	DOID:934
+Pharyngeal Disease	DOID:939
+pituitary adenoma	DOID:3829
+Polycystic Kidney Disease	DOID:5898
+Polycystic liver disease	DOID:1173
+polycythemia vera (PV)	is_obsolete
+polymyositis (PM)	DOID:10222
+primary biliary cirrhosis (PBC)	DOID:12236
+primary myelofibrosis	DOID:5737
+prion disease	DOID:649
+prostate cancer	DOID:10286
+Psoriasic Arthritis	DOID:9008
+psoriasis	DOID:9088
+pulmonary hypertension	DOID:6432
+recurrent ovarian cancer	DOID:6708
+Renal Cell Carcinoma	DOID:4450
+renal clear cell carcinoma	DOID:4467
+retinitis pigmentosa (RP)	DOID:10584
+retinoblastoma	DOID:768
+rhabdomyosarcoma	DOID:3247
+Rheumatic Heart Disease  DOID:9814 and Atrial Fibrillation	DOID:9814
+Rheumatoid Arthritis	DOID:7148
+sarcoma	DOID:1115
+schizophrenia	DOID:5419
+sepsis	DOID:2292
+serous ovarian cancer 	DOID:5745
+Sezary syndrome	DOID:8541
+skin disease	DOID:37
+Small Cell Lung Cancer	DOID:3907
+Spinocerebellar ataxia	DOID:1441
+squamous carcinoma	DOID:1749
+T-cell leukemia	DOID:715
+teratocarcinoma	DOID:3305
+testicular germ cell tumor	DOID:5556
+thalassemia	DOID:10241
+thyroid cancer	DOID:3963
+tongue squamous cell carcinoma	DOID:10944
+tourette's syndrome	DOID:11119
+type 2 diabetes	DOID:9351
+ulcerative colitis (UC)	DOID:8577
+uterine leiomyoma (ULM)	DOID:13223
+uveal melanoma	DOID:1909
+vascular disease	DOID:178
+vesicular stomatitis	DOID:10881
+Waldenstrom Macroglobulinemia (WM)	DOID:9080
+

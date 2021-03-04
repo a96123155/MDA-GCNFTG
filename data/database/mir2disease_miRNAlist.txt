@@ -1,0 +1,443 @@
+hsa-let-7a
+	hsa-let-7a-1
+	hsa-let-7a-2
+	hsa-let-7a-3
+hsa-let-7b
+hsa-let-7b*
+hsa-let-7c
+hsa-let-7d
+hsa-let-7d*
+hsa-let-7e
+hsa-let-7e*
+hsa-let-7f
+	hsa-let-7f-1
+	hsa-let-7f-2
+hsa-let-7g
+hsa-let-7i
+hsa-miR-1
+	hsa-miR-1-2
+hsa-miR-100
+	hsa-miR-100-1
+	hsa-miR-100-2
+hsa-miR-101
+	hsa-miR-101-1
+	hsa-miR-101a
+	hsa-miR-101b-2
+hsa-miR-102
+hsa-miR-103
+	hsa-miR-103-1
+	hsa-miR-103-2
+hsa-miR-104
+hsa-miR-105
+hsa-miR-106a
+	hsa-miR-106a-1
+hsa-miR-106b
+	hsa-miR-106b-1
+hsa-miR-107
+hsa-miR-10a
+hsa-miR-10b
+hsa-miR-122
+	hsa-miR-122a
+hsa-miR-1228*
+hsa-miR-123
+hsa-miR-124a
+	hsa-miR-124a-1
+	hsa-miR-124a-2
+	hsa-miR-124a-3
+hsa-miR-125a
+	hsa-miR-125a-5p
+hsa-miR-125b
+	hsa-miR-125b-1
+	hsa-miR-125b-2
+hsa-miR-126
+	hsa-miR-126-5p
+hsa-miR-126*
+hsa-miR-127
+hsa-miR-128a
+hsa-miR-128b
+hsa-miR-129
+	hsa-miR-129-1
+	hsa-miR-129-2
+hsa-miR-130
+	hsa-miR-130a
+		hsa-miR-130a-1
+	hsa-miR-130b
+	hsa-miR-130b-1
+hsa-miR-132
+hsa-miR-133a
+hsa-miR-133b
+hsa-miR-134
+hsa-miR-135a
+hsa-miR-135b
+hsa-miR-136
+hsa-miR-137
+hsa-miR-138
+	hsa-miR-138-1
+	hsa-miR-138-2
+hsa-miR-139
+	hsa-miR-139-5p
+hsa-miR-140
+	hsa-miR-140-3p
+hsa-miR-140*
+hsa-miR-141
+hsa-miR-142-3p
+hsa-miR-142-5p
+hsa-miR-143
+hsa-miR-144
+hsa-miR-144*
+hsa-miR-145
+hsa-miR-146a
+hsa-miR-146a*
+hsa-miR-146b
+hsa-miR-147
+hsa-miR-148a
+hsa-miR-148b
+hsa-miR-149
+hsa-miR-15
+hsa-miR-150
+hsa-miR-151
+	hsa-miR-151-5p
+hsa-miR-151*
+hsa-miR-152
+hsa-miR-153
+hsa-miR-154
+hsa-miR-154*
+hsa-miR-155
+hsa-miR-15a
+	hsa-miR-15a-2
+hsa-miR-15b
+hsa-miR-16
+	hsa-miR-16-1
+	hsa-miR-16-2
+	hsa-miR-16a
+hsa-miR-164
+hsa-miR-170
+hsa-miR-172a-2
+hsa-miR-17
+	hsa-miR-17-3p
+	hsa-miR-17-5p
+hsa-miR-17-92
+hsa-miR-18
+	hsa-miR-18a
+	hsa-miR-18b
+hsa-miR-18a*
+hsa-miR-181a
+	hsa-miR-181a-1
+	hsa-miR-181a-2
+hsa-miR-181a*
+	hsa-miR-181a-1*
+hsa-miR-181b
+	hsa-miR-181b-1
+	hsa-miR-181b-2
+hsa-miR-181c
+hsa-miR-181d
+hsa-miR-182
+hsa-miR-182*
+hsa-miR-183
+hsa-miR-184
+hsa-miR-185
+hsa-miR-186
+hsa-miR-187
+hsa-miR-188
+hsa-miR-189
+hsa-miR-190
+hsa-miR-191
+hsa-miR-192
+	hsa-miR-192-1
+	hsa-miR-192-2
+	hsa-miR-192-3
+hsa-miR-193a
+hsa-miR-193b
+hsa-miR-194
+hsa-miR-195
+hsa-miR-195*
+hsa-miR-196a
+	hsa-miR-196a-2
+hsa-miR-196b
+hsa-miR-197
+hsa-miR-198
+hsa-miR-199a
+	hsa-miR-199a-1
+		hsa-miR-199a-1-5p
+	hsa-miR-199a-2
+		hsa-miR-199a-2-5p
+	hsa-miR-199a-3p
+hsa-miR-199b
+	hsa-miR-199b-5p
+hsa-miR-19a
+hsa-miR-19b
+	hsa-miR-19b-1
+	hsa-miR-19b-2
+hsa-miR-200a
+hsa-miR-200b
+hsa-miR-200c
+hsa-miR-202
+hsa-miR-203
+hsa-miR-204
+hsa-miR-205
+hsa-miR-206
+hsa-miR-207
+hsa-miR-208
+	hsa-miR-208a
+hsa-miR-20a
+hsa-miR-20b
+hsa-miR-21
+hsa-miR-22
+hsa-miR-210
+hsa-miR-211
+hsa-miR-212
+hsa-miR-213
+hsa-miR-214
+hsa-miR-215
+hsa-miR-216
+hsa-miR-217
+hsa-miR-218
+	hsa-miR-218-2
+hsa-miR-219
+	hsa-miR-219-1
+hsa-miR-22
+hsa-miR-220
+hsa-miR-221
+hsa-miR-222
+hsa-miR-223
+hsa-miR-224
+hsa-miR-23a
+hsa-miR-23b
+hsa-miR-24
+	hsa-miR-24-1
+	hsa-miR-24-2
+hsa-miR-25
+hsa-miR-26a
+	hsa-miR-26a-1
+	hsa-miR-26a-2
+hsa-miR-26b
+hsa-miR-27a
+hsa-miR-27b
+hsa-miR-28
+hsa-miR-296
+hsa-miR-298
+hsa-miR-299-3p
+hsa-miR-299-5p
+hsa-miR-29a
+	hsa-miR-29a-2
+hsa-miR-29b
+	hsa-miR-29b-1
+	hsa-miR-29b-2
+hsa-miR-29c
+hsa-miR-301
+hsa-miR-302
+	hsa-miR-302a
+	hsa-miR-302b
+	hsa-miR-302b*
+	hsa-miR-302c
+	hsa-miR-302c*
+	hsa-miR-302d
+hsa-miR-30a
+	hsa-miR-30a-3p
+	hsa-miR-30a-5p
+hsa-miR-30b
+hsa-miR-30b*
+hsa-miR-30c
+	hsa-miR-30c-1
+hsa-miR-30d
+hsa-miR-30e
+hsa-miR-30e*
+	hsa-miR-30e-5p
+hsa-miR-31
+	hsa-miR-31a
+hsa-miR-32
+hsa-miR-32*
+hsa-miR-320
+	hsa-miR-320-2
+	hsa-miR-320a
+hsa-miR-322
+hsa-miR-323
+hsa-miR-324-3p
+hsa-miR-324-5p
+hsa-miR-325
+hsa-miR-326
+hsa-miR-328
+	hsa-miR-328-1
+hsa-miR-33
+hsa-miR-330
+hsa-miR-331
+hsa-miR-335
+hsa-miR-337
+	hsa-miR-337-3p
+hsa-miR-338
+	hsa-miR-338-5p
+hsa-miR-339
+	hsa-miR-339-5p
+hsa-miR-34a*
+hsa-miR-340
+hsa-miR-340*
+hsa-miR-341
+hsa-miR-342
+	hsa-miR-342-3p
+hsa-miR-345
+hsa-miR-346
+hsa-miR-347
+hsa-miR-34a
+hsa-miR-34b
+hsa-miR-34c
+hsa-miR-351
+hsa-miR-352
+hsa-miR-361
+hsa-miR-362
+hsa-miR-363
+hsa-miR-355
+hsa-miR-365
+hsa-miR-367
+hsa-miR-368
+hsa-miR-369-5p
+hsa-miR-370
+hsa-miR-371
+hsa-miR-372
+hsa-miR-373
+hsa-miR-373*
+hsa-miR-374
+hsa-miR-375
+hsa-miR-376a
+hsa-miR-376b
+hsa-miR-377
+hsa-miR-378
+hsa-miR-378*
+hsa-miR-379
+hsa-miR-381
+hsa-miR-382
+hsa-miR-383
+hsa-miR-409-3p
+hsa-miR-419
+hsa-miR-422a
+hsa-miR-422b
+hsa-miR-423
+hsa-miR-424
+hsa-miR-429
+hsa-miR-431
+hsa-miR-432
+hsa-miR-432*
+hsa-miR-433
+hsa-miR-449a
+hsa-miR-451
+hsa-miR-452
+hsa-miR-451
+hsa-miR-452
+hsa-miR-452*
+hsa-miR-483
+	hsa-miR-483-3p
+hsa-miR-484
+hsa-miR-485-5p
+hsa-miR-485-3p
+hsa-miR-486
+hsa-miR-487b
+hsa-miR-489
+hsa-miR-491
+	hsa-miR-491-5p
+hsa-miR-492
+hsa-miR-493-3p
+hsa-miR-493-5p
+hsa-miR-494
+hsa-miR-495
+hsa-miR-497
+hsa-miR-498
+hsa-miR-499
+hsa-miR-5
+hsa-miR-500
+hsa-miR-501
+hsa-miR-503
+hsa-miR-508
+hsa-miR-509
+hsa-miR-510
+hsa-miR-511
+hsa-miR-512-5p
+hsa-miR-513
+	hsa-miR-513-1
+	hsa-miR-513-2
+hsa-miR-515-3p
+hsa-miR-516-5p
+hsa-miR-516-3p
+hsa-miR-518a-2*
+hsa-miR-518b
+hsa-miR-518c*
+hsa-miR-519a
+hsa-miR-519d
+hsa-miR-520a
+hsa-miR-520c
+hsa-miR-521
+hsa-miR-524*
+hsa-miR-525*
+hsa-miR-532-5p
+hsa-miR-539
+hsa-miR-542-3p
+hsa-miR-542-5p
+hsa-miR-550
+hsa-miR-551a
+hsa-miR-561
+hsa-miR-563
+hsa-miR-565
+hsa-miR-572
+hsa-miR-582
+hsa-miR-584
+hsa-miR-594
+hsa-miR-595
+hsa-miR-598
+hsa-miR-599
+hsa-miR-600
+hsa-miR-601
+hsa-miR-602
+hsa-miR-605
+hsa-miR-608
+hsa-miR-611
+hsa-miR-612
+hsa-miR-614
+hsa-miR-615
+	hsa-miR-615-3p
+hsa-miR-622
+hsa-miR-627
+hsa-miR-628
+hsa-miR-635
+hsa-miR-637
+hsa-miR-638
+hsa-miR-642
+hsa-miR-648
+hsa-miR-652
+hsa-miR-654
+hsa-miR-657
+hsa-miR-658
+hsa-miR-659
+hsa-miR-661
+hsa-miR-662
+hsa-miR-663
+hsa-miR-664
+hsa-miR-7
+	hsa-miR-7-1
+		hsa-miR-7-1*
+	hsa-miR-7-2
+	hsa-miR-7-3
+hsa-miR-708
+hsa-miR-765
+hsa-miR-769-3p
+hsa-miR-802
+hsa-miR-885-3p
+hsa-miR-9
+	hsa-miR-9-1
+	hsa-miR-9-3
+hsa-miR-9*
+hsa-miR-9-3p
+hsa-miR-92
+	hsa-miR-92-1
+	hsa-miR-92-2
+hsa-miR-9-2
+hsa-miR-92
+	hsa-miR-92a
+hsa-miR-93
+hsa-miR-95
+hsa-miR-96
+hsa-miR-98
+hsa-miR-99a
+hsa-miR-99b
+
+
+
+miR-BART21     this is a  EBV-encoded viral microRNA
+miR-BART22     this is a  EBV-encoded viral microRNA

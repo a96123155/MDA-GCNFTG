@@ -21,8 +21,7 @@ The experimental results show that the MDA-GKNN method has achieved satisfactory
 The implementation of random forest, extremely randomized trees, Gaussian naivy Bayes, decision trees, SVM, graph convolutional network, GAMEDA
 It is worthy to note that the DNN is implemented through Keras.
 #### MDA-GKNN folder
-We have a cython module which need compilation before training can start. It is better to recompile the module by running the following from the code folder:
-python MDA-GKNN/setup.py build_ext --inplace
+It contains the pytorch code for MDA-GKNN.
 
 ### prediction results folder
 The MDA prediction results on six tasks, which contain y_train, y_test, y_train_pred, y_test_pred

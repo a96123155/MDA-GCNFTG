@@ -1,0 +1,210 @@
+﻿GEO series	Title	Authors	Pubmed ID	Species	Cancer type	Cancer SubType	Cell line	GEO platform	Number of samples
+GSE2399	MicroRNA expression in lymphoma lines	He L, Thomson JM, Hemann MT, Hernando-Monge E et al.	15944707	Homo sapiens	lymphoma, leukemia 			GPL1899	40
+GSE2564	MicroRNA expression profiles classify human cancers	Lu J, Getz G, Miska EA	15944708	Homo sapiens	breast cancer, renal carcinoma, lung cancer, prostate cancer, uterus carcinoma			GPL1986	334
+GSE4589	Breast tumor miRNA profiling	Mattie MD, Haqq CM, Benz CC, Scott GK, Fedele V	16784538	Homo sapiens	breast cancer			GPL3238	20
+GSE5244	Human Uterine Leiomyomata microRNA gene expression	Wang T, Zhang X, Obijuru L, Aris V, Lee P, Mittal K, Soteropoulos P, Wei J	17243163	Homo sapiens	uterus cancer			GPL3879	51
+GSE6188	Distinctive microRNA profiles relating to patient survival in esophageal squamous cell carcinoma	Guo Y	18172293	Homo sapiens	esophageal cancer			GPL4508	257
+GSE6636	Prostate miRNA expression profiles	Mattie MD, Haqq CM, Simko J, Dai C, Carroll P, Chew K		Homo sapiens	prostate cancer			GPL3238 	47
+GSE7072	Profiling miRNAs in human retinoblastoma	Huang JC, Babak T, Hughes TR, Corson TW, Frey B, Morris Q, Chua G, Blencowe BJ	18026111	Homo sapiens	retinoblastoma			GPL4879	6
+GSE7842	MicroRNA expression profiling of human breast cancer identifies new markers of tumour subtype	Blenkiron C, Goldstein LD, Thorne NP, Spiteri MI, Chin S, Dunning M, Barbosa-Morais NL, Teschendorff AE, Green AR, Ellis IO, Tavaré S, Caldas C, Miska EA	17922911	Homo sapiens	breast cancer	ER postive/negative		GPL5173	119
+GSE8126	Genomic profiling of microRNA and messenger RNA reveals deregulated microRNA expression in prostate cancer	Ambs S, Hudson R, Yi M	18676839	Homo sapiens	prostate cancer			GPL5180 	76
+GSE10259	Characterization of microRNA expression in colorectal cancer	Arndt GM, Dossey L, Cullen LM, Lai 	19843336	Homo sapiens	colorectal cancer			GPL4411	66
+GSE10694	MicroRNAs expression profile in human hepatocellular carcinoma	Li W, Gu J	18649363	Homo sapiens	hepatocellular carcinoma			GPL6542 	166
+GSE11016	miRNA profiling of adult and pediatric renal tumors	Kort EJ	18519660	Homo sapiens	kidney cancer	Wilms tumur		GPL6668	32
+GSE11163	miRNA expression in head and neck squamous cell carcinoma (HNSCC)	Avissar M, Christensen BC, Kelsey KT, Marsit CJ	19351747	Homo sapiens	head and neck cancer			GPL6690 	27
+GSE12105	Array-based miRNA Profiling of Clear Cell Renal Cell Cancer	Hans-Joachim M, Klaus J, Monika J, Glenn K	19228262	Homo sapiens	kidney cancer	clear cell renal cell carcinoma		GPL6955	24
+GSE12303	microRNA expression profiling in human medulloblastoma	Ferretti E, De Smaele E, Po A, Gulino A	18973228	Homo sapiens	brain cancer	medulloblastoma		GPL7114 	48
+GSE12933	miRNA profiles of diffuse large B cell lymphoma (DLBCL) derived cell lines	Malumbres R, Lossos IS	19047678	Homo sapiens	lymphomas			GPL7373	8
+GSE13030	Human primary and secondary glioblastoma vs. non-neoplastic adult brain tissue	D'Urso OF, D'Urso PI, Ciappetta P		Homo sapiens	brain cancer	glioblastoma 		GPL7389 	93
+GSE14857	MicroRNA Profiling Identifies Potential Diagnostic and Prognostic Markers in Prostate Cancer	Mollenkopf H, Jung K, Jung M, Schäfer A, Stephan C, Lein M, Kristiansen G	19676045	Homo sapiens	prostate cancer			GPL6955	24
+GSE15008	MicroRNA Expression Profile Reveals Important Clinical Tools for the Pathology of Lung Cancer	Tan X, Qin W, Zhang L, Hang J		Homo sapiens	lung cancer			GPL8176	375
+GSE16025	miRNA prognostic profiles in lung cancer	miRNA prognostic profiles in lung cancer	19584273	Homo sapiens	lung cancer			GPL5106	71
+GSE16456	MicroRNA expression signatures in Barrett's esophagus and esophageal adenocarcinoma	Yang H, Gu J, Wang K, Zhang W, Xing J, Chen Z, Ajani J, Wu X	19737949	Homo sapiens	esophageal cancer			GPL6955	32
+GSE16558	MicroRNAs in Myeloma	Gutierrez NC, Sarasquete ME, Delgado M, Ticona FV, De las Rivas J,		Homo sapiens	lymphoma	multiple myeloma		GPL8695 	65
+GSE17792	microRNA profiles of meningiomas	Saydam O	19703993	Homo sapiens	brain cancer	meningioma		GPL7436	17
+GSE20099	microRNA/UCR expression profiling of human Barrett's carcinogenesis	Fassan M, Volinia S, Palatini J, Croce CM, Baffa R, Pizzi M, Ancona E, Rugge M, Galasso M, Zaninotto G	21128279	Homo sapiens	esophageal cancer	Barrett's carcinogenesis		GPL8871	51
+GSE6857	Unique MicroRNA Expression Signature Predicts Survival, Metastases and Recurrence of HCC		18176954	Homo sapiens	hepatocellular carcinoma			GPL4700	482
+GSE7055	Expression of microRNAs and Protein-coding Genes Associated with Perineural Invasion in Prostate Cancer	Ambs S, Hudson RS, Prueitt R, Yi M	18459106	Homo sapiens	prostate cancer			GPL4700	114
+GSE7828	MicroRNA profiles of 84 colon adenocarcinomas and paired nontumorous	Schetter AJ, Leung SY, Sohn JJ, Zanetti KA et al	18230780	Homo sapiens	colon cancer			GPL4700	170
+GSE15885	MicroRNA signatures predict Estrogen receptor, Progesterone receptor and HER2/neu receptor status in Breast Cancer	Lowery AJ, Miller N, Devaney A, McNeill RE, Davoren PA, Lemetre C, Benes V, Schmidt S, Blake J, Ball GR, Kerin MJ	19432961	Homo sapiens	breast cancer			GPL6127	29
+GSE17498	Identification of MicroRNA Expression Patterns and a MicroRNAs/mRNA Regulatory Network in Multiple Myeloma	Lionetti M, Biasiolo M, Agnelli L, Todoerti K, Mosca L, Fabris S, Sales G, Lambertenghi-Deliliers G, Bicciato S, Lombardi L, Bortoluzzi S, Neri A	19846888	Homo sapiens	lymphoma	multiple myeloma		GPL8227	102
+GSE18509	miR-193b represses cell proliferation and regulates cyclin D1 in melanoma: benign nevi and metastatic melanoma	Chen J, Feilotter H, Zhang X, Tron VA	20304954	Homo sapiens	melanoma			GPL9081	16
+GSE18392	Genome-wide analysis of miRNA levels in colon cancer	Sarver A	19922656	Homo sapiens	colon cancer			GPL8178	145
+GSE19856	Study of miRNA expression in childhood adrenocortical tumors	LALLI E	20484036	Homo sapiens	adrenocortical tumor			GPL8227	30
+GSE19387	MicroRNA Expression Profiles Associated with Mutational Status and Survival in Malignant Melanoma	Caramuta S, Egyhazi S	20357817	Homo sapiens	melanoma			GPL9081	40
+GSE22058	miR-122 as a Regulator of Mitochondrial Metabolic Gene Network in Hepatocellular Carcinoma	Burchard J, Zhang C, Liu AM, Lee NP, Wong K, Poon RT, Sham PC, Lam BY, Ferguson MD, Tokiwa G, Smith R, Leeson B, Beard R, Lamb JR, Lim L, Mao M, Dai H, Luk JM	20739924	Homo sapiens	hepatocellular carcinoma			GPL10457 	397
+GSE21036	MicroRNA expression data for human primary and metastatic prostate cancer samples and control normal adjacent benign prostate	Taylor BS, Schultz N, Hieronymus H, Sawyers CL	20579941	Homo sapiens	prostate cancer			GPL8227 	142
+GSE23022	MicroRNA expression data from human prostate cancer	Wach S, Ekici AB, Reis A, Eltze E	21400514	Homo sapiens	prostate cancer			GPL8786	40
+GSE24390	microRNA profiles of schwannomas	Saydam O	21156648	Homo sapiens	brain cancer	Schwannoma tumors		GPL7436	24
+GSE24485	miRNA expression profile of human MALT lymphoma compared to gastritis and gDLBCL	Craig VJ, Mueller A	21460242	Homo sapiens	lymphoma	B cell lymphoma of MALT type		GPL8227	22
+GSE18546	Identification of Altered MicroRNA Expression Patterns in Synovial Sarcoma	Hisaoka M, Matsuyama A, Nagao Y, Luan L, Kuroda T, Akiyama H, Kondo S, Hashimoto H		Homo sapiens	sarcoma	Synovial sarcoma		GPL7738 	20
+GSE24996	miR-193b Regulates Mcl-1 in Melanoma	Chen J, Zhang X, Lentz C, Abi-Daoud M, Feilotter HE, Tron VA	21893020	Homo sapiens	melanoma			GPL6955	31
+GSE19783	Molecular Characterization of Breast Cancer Subtypes from Joint Analysis of High Throughput miRNA and mRNA Data (II)	Enerly E, Steinfeld I, Johnsen H, Kleivi KG, Leivonen SK, Russnes HG, Rønneberg JA, Navon R, Rødland E, Aure MR, Mäkelä R, Naume B,  Perälä M, Kallioniemi O, Kristensen VN, Børresen-Dale A, Yakhini Z	21364938	Homo sapiens	breast cancer			GPL8227	216
+GSE20077	Aberrantly microRNA profiling in cancerous hepatocytes versus normal primary hepatocytes	He X, Chang Y, Lin J	22056881	Homo sapiens	hepatocellular carcinoma			GPL8227	11
+GSE19980	Differentially expressed miRNAs between HepG2.2.15 and HepG2 cells	Guo H, Luo M		Homo sapiens	hepatocellular carcinoma			GPL9954 	12
+GSE21362	MicroRNA Profile Predicts Recurrence of Hepatocellular Carcinoma in Milan Criteria Cases with Mild Liver Cirrhosis	Sato F, Hatano E, Kitamura K, Myomoto A, Fujiwara T, Takizawa S, Tsuchiya S, Tsujimoto G, Uemoto S, Shimizu K	21298008	Homo sapiens	hepatocellular carcinoma			GPL10312	146
+GSE28700	Expression profiles of microRNAs in gastric cancer	Chen C, Juan H	21703006	Homo sapiens	gastric cancer			GPL9081	44
+GSE29352	miRNA expression profiles in Pancreatic Cystic tumours and Pancreatic Cancer	Frampton A		Homo sapiens	pancreatic cancer			GPL13606	43
+GSE26245	Protein-coding and MicroRNA Biomarkers of Recurrence of Prostate Cancer Following Radical Prostatectomy	Long Q, Johnson BA, Osunkoya AO, Lai Y, Zhou W, Abramovitz M, Xia M, Bouzyk MB, Nam RK, Sugar L, Stanimirovic A, Leyland-Jones BR, Seth AK, Petros JA, Moreno C		Homo sapiens	prostate cancer			GPL11350	96
+GSE22816	Deregulated miRNAs in adrenocortical tumors	Caramuta S, Özata D, Velazquez-Fernandez D, Akçakaya P, Hong X, Bäckdahl M, Zedenius J, Larsson C, Lui W	21859927	Homo sapiens	adrenocortical tumor			GPL13347	52
+GSE22216	microRNA expression profiling of early primary breast cancer to identify prognostic markers and associated pathways	Buffa FM, Camps C	21737487	Homo sapiens	breast cancer			GPL8178	210
+GSE22420	The different epidemiologic subtypes of Burkitt Lymphoma share a largely homogenous micro RNA profile distinct from diffuse large B-cell lymphoma.	Lenze D	21701491	Homo sapiens	lymphoma	Burkitt Lymphoma		GPL10554	150
+GSE24508	Expression of microRNAs and their gene targets are dysregulated in pre-invasive breast cancer (microRNA)	Hannafon BN, Rosenberg CL	21375733	Homo sapiens	breast cancer			GPL10349 	19
+GSE23383	miRNAs in ovarian cancer: A systems approach (miRNA data)	Shahab S, Hill CG, Mittal VK, Mezencev R, Matyunina L, Walker LD, Bowen NJ, Benigno BB, Mcdonald JF	21811625	Homo sapiens	ovarian cancer			GPL9735	6
+GSE23739	miRNA expressions in non-cancerous and cancerous human gastric tissues	Oh H, Tan A, Ooi C, Deng N, Tan I, Beillard E, Lee J, Ramnarayanan K, Rha S, Palanisamy N, Voorhoeve M, Tan P	21415212	Homo sapiens	gastric cancer			GPL7731	80
+GSE32232	microRNA-expression profile in a series of Nodal marginal zone lymphoma patients [miRNA expression]	Arribas JA, Campos-Martín Y, Gómez-Abad C, Arribas JA, Algara P, Sánchez-Beato M, Rodriguez-Pinilla MS, Montes-Moreno S, Martinez N, Alves-Ferreira J, Piris MA, Mollejo M	22110251	Homo sapiens	lymphoma	B-cell non-Hodgkin lymphoma		GPL9081	46
+GSE25820	Global microRNA expression profiling of microdissected tissues from diseased and non-diseased pancreatic tissues	Hahn S	21953293	Homo sapiens	pancreatic cancer			GPL7731	18
+GSE32678	Integrative Survival-Based Molecular Profiling of Human Pancreatic Cancer [miRNA]	Donahue TR, Tran LM, Hill R, Li Y, Kovochich A, Calvopina JH, Patel SG, Wu N, Hindoyan A, Farrell JJ, Li X, Dawson DW, Wu H	22261810	Homo sapiens	pancreatic cancer			GPL7723	32
+GSE25653	miRNA profiling of Melanoma Cell lines and Normal Melanocytes	Boyle GM, Woods SL, Bonazzi VF, Stark MS, Hacker E, Aoude LG, Hayward NK	21435193	Homo sapiens	melanoma			GPL6955	56
+GSE31741	miRNA expression signatures in gastrointestinal stromal tumors (GISTs)	Suzuki H, Toyota M	22258453	Homo sapiens	gastrointestinal stromal tumor			GPL10406	32
+GSE30454	Colorectal cancers with microsatellite instability display unique miRNA profiles	Balaguer F, Moreira L, Lozano JJ, Link A, Ramirez G, Shen Y, Cuatrecasas M, Arnold M, Meltzer SJ, Syngal S, Stoffel E, Jover R, Llor X, Castells A, Boland CR, Gironella M, Goel A	21844009	Homo sapiens	colorectal cancer			GPL8179	74
+GSE31377	miRNA expression profiling of NKTCL (Natural Killer/T-Cell Lymphoma) samples	Ng S, Selvarajan V, Yan J, Huang G, Lin B, Bi C, Chng W	21921041	Homo sapiens	lymphoma	T-Cell Lymphoma		GPL8227	56
+GSE33961	miRNA array in colorectal carcinoma	Sun Y		Homo sapiens	colorectal cancer			GPL7731	12
+GSE26323	Human hepatocellular carcinoma: primary tumor vs.lung metastasis	Wu W, Tao Z, Li W, Wan J	23478189	Homo sapiens	hepatocellular carcinoma			GPL11362	6
+GSE35579	050209-miRNA Melanoma miRNA microarray	Xu Y, Brown ER, Brenn T, Melton DW		Homo sapiens	melanoma			GPL15183	71
+GSE31629	miRNA expression profiling in Adult T-cell Leukemia (ATL) cells and in Normal CD4+ T-cells	Tsutsumi A, Kagami Y, Nakano K, Yamagishi M, Uchimaru K, Utsunomiya A, Yamaguchi K, Watanabe T	22264793	Homo sapiens	leukemia			GPL7731	62
+GSE32906	Differential expressed miRNAs in Multi-stages and Lymphoid node metastasis of Nasopharyngeal Carcinoma	luo z, li z, xiang j		Homo sapiens	nasopharyngeal carcinoma	T-cell Leukemia		GPL11350 	22
+GSE35412	Identification and pathway analysis of microRNAs with no previous involvement in breast cancer	Romero-Cordoba S, Rodriguez-Cuevas S, Rebollar-Vega R, Quintanar-Jurado V, Maffuz-Aziz A, Jimenez-Sanchez G, Bautista-Piña V, Arellano-Llamas R, Hidalgo-Miranda A	22438871	Homo sapiens	breast cancer			GPL9731	75
+GSE35602	microRNA and Gene expression profiles in colorectal cancer stromal tissue	Mori M, Mimori K, Nishida N	22452939	Homo sapiens	colorectal cancer			GPL8227	59
+GSE29965	microRNA expression in Barrett's esophagus and esophageal adenocarcinoma	vanBaal JW, Siersema PD	22504665	Homo sapiens	esophageal cancer			GPL7722	12
+GSE31045	MicroRNAs differentially expressed in liposarcoma	Creighton C, Lev D, Zhang P	22350414	Homo sapiens	sarcoma	liposarcoma		GPL7723 	25
+GSE29135	MicroRNA profiling and prediction of recurrence/relapse-free survival in stage I lung cancer	Lu Y, Govindan R, You M	22331473	Homo sapiens	lung cancer			GPL8179	387
+GSE29491	Combinatorial effects of microRNA to suppress the myc oncogenic pathway (miRNA data)	Di Lisio L, Bueno MJ, Gómez-López G, Martínez N, Piris MA, Malumbres M	21478429	Homo sapiens	lymphoma	B cell lymphoma		GPL8617 	26
+GSE28955	A set of 72 differentially expressed miRNAs provide a molecular signature for pancreatic cancer	Laurila EM, Sandstrom S, Rantanen LM, Autio R, Kallioniemi A		Homo sapiens	pancreatic cancer			GPL6955	23
+GSE37407	The miRNA-200 family and miRNA-9 exhibit differential expression in primary vs. corresponding metastatic tissue in breast cancer	Gravgaard KH, Lyng MB, Laenkholm A, Søkilde R, Nielsen BS, Litman T, Ditzel HJ	22294488	Homo sapiens	breast cancer			GPL13703	61
+GSE28090	microRNA profiling of follicular lymphoma cells	Wang W, Corrigan-Cummins M, Maric I, Simakova O, Neelapu SS, Kwak LW, Janik JE, Gause B, Jaffe ES, Calvo KR	22102710	Homo sapiens	lymphoma	B cell lymphoma		GPL11487	25
+GSE36682	MicroRNA Signatures Correlate with Diagnosis, Distant Metastasis and Prognosis in nasopharyngeal carcinoma	Wei R, Wang H		Homo sapiens	nasopharyngeal carcinoma			GPL15311	68
+GSE35794	microRNA expression profile in endometrioid endometrial carcinoma (EEC)	Torres A, Torres K		Homo sapiens	endometrial cancer			GPL10850	22
+GSE30656	Altered microRNA expression associated with chromosomal and epigenetic changes contributes to cervical carcinogenesis	Wilting SM, Snijders PJ, Verlaat W, Bosman-Jaspers A, vandeWiel MA, vanWieringen WN, Meijer GA, Kenter GG, Yi Y, leSage C, Agami R, Meijer CJ, Steenbergen RD	22330141	Homo sapiens	cervical cancer			GPL6955	47
+GSE32960	microRNA profile of human nasopharyngeal tissues: nasopharyngeal carcinoma tissues vs. normal nasopharyngeal tissues	Ma J, Wang H, Liu N	23408429	Homo sapiens	nasopharyngeal carcinoma			GPL14722	330
+GSE25631	Genome-wide analysis of microRNA expression in surgical specimens of primary glioblastoma multiform	Zhang W, Jiang T	22570426	Homo sapiens	brain cancer			GPL8179 	87
+GSE33743	Lack of microRNA-101 causes E-cadherin expression and function deregulation through EZH2 up-regulation in gastric cancer	Carvalho J, Seruca R, van Grieken NC, Pereira PM, Sousa S, Tijssen M, Buffart TE, Diosdado B, Grabsch H, Santos MA, Meijer G, Carvalho B, Oliveira C	22450781	Homo sapiens	gastric cancer			GPL14895	41
+GSE36681	Increased miR-708 expression in NSCLC and its association with poor survival in lung adenocarcinoma from Never Smokers	Jang JS, Jen J	22573352	Homo sapiens	lung cancer			GPL8179	206
+GSE28100	Differential expression of microRNAs between oral squamous cell carcinoma and healthy control tongues	Jung HM, Patel RS, Cheng JQ, Chan EK	22761427	Homo sapiens	oral squamous cell carcinoma 			GPL10850	20
+GSE29248	Genome-wide analysis of microRNA expression in Non-small Cell Lung Cancer	Ma L, Liu X	22046296	Homo sapiens	lung cancer			GPL8179	12
+GSE32957	Integrative Transcriptomic Profiling reveals Hepatic Stem-like Phenotype and Interplay of EMT and miR-200c in Intrahepatic Cholangiocarcinoma [miRNA]	Oishi N, Wang XW	22707408	Homo sapiens	liver cancer			GPL14732	35
+GSE37527	MiRNA expression analysis of cancer-associated fibroblasts (CAFs) and normal fibroblasts (NFs) in breast cancer	Liu M, Zhao L	22964023	Homo sapiens	breast cancer			GPL14767	12
+GSE39678	Oncogenic Potential of SIRT7 in Human Hepatocellular Carcinoma and its Regulation by the Tumor Suppressors MiR-125a-5p and MiR-125b	Kim J, Noh J, Jung K, Eun J, Bae H, Kim M, Chang Y, Shen Q, Park W, Lee J, Borlak J, Nam S	23499894	Homo sapiens	hepatocellular carcinoma			GPL15852	24
+GSE38389	The rectal cancer microRNAome - a comprehensive comparative analysis of microRNA expression in rectal cancer and matched normal mucosa	Søkilde R, Gaedcke J, Grade M, Camps J, Kaczkowski B, Schetter AJ, Difilippantonio MJ, Harris CC, Ghadim M, Møller S, Beissbarth T, Ried T, Litman T	22850566	Homo sapiens	colorectal cancer			GPL11039	140
+GSE41282	MicroRNA expression data from human renal cell cancer subtypes	Wach S, Ekici AB, Reis A	23799849	Homo sapiens	kidney cancer			GPL8786	38
+GSE28423	Modulation of the osteosarcoma expression phenotype by miRNAs [Agilent]	Namløs HM, Meza-Zepeda LA, Barøy T, Østensen IH, Kresse SH, Kuijjer ML, Serra M, Bürger H, Cleton-Jansen A, Myklebost O	23133552	Homo sapiens	sarcoma	osteosarcoma		GPL8227	23
+GSE40525	miR-10b*, a master inhibitor of the cell cycle, is downregulated in human breast tumors	Biagioni F, Bossel Ben-Moshe N, Fontemaggi G, Canu V, Mori F, Antoniani B, Di Benedetto A, Santoro R, Germoni S, De Angelis F, Cambria A, Avraham R, Grasso G, Strano S, Muti P, Mottolese M, Yarden Y, Domany E, Blandino G	23125021	Homo sapiens	breast cancer			GPL8227	120
+GSE34460	Comparative microarray analysis of microRNA expression profiles in primary cutaneous malignant melanoma, cutaneous malignant melanoma metastases and benign melanocytic naevi	Sand M, Skrygan M, Sand D, Georgas D, Gambichler T, Hahn SA, Altmeyer P, Bechara FG	23111773	Homo sapiens	melanoma			GPL15019	21
+GSE38781	High-throughput microRNA (miRNAs) arrays in pancreatic cancer	Giovannetti E, van der Velde A, Funel N, Vasile E, Perrone V, Leon LG, De Lio N, Avan A, Caponi S, Pollina LE, Sudo H, Falcone A, Campani D, Boggi U, Peters GJ	23155457	Homo sapiens	pancreatic cancer			GPL14903 	19
+GSE33125	Comparison of microarray platforms for measuring differential microRNA expression (Illumina data)	De Cecco L, Callari M	23028787	Homo sapiens	colon cancer			GPL8179	18
+GSE33332	Prospective isolation and characterization of renal cancer stem cells from human Wilms' tumor xenografts leads to tumor eradication	Magister MJ, Kaminski N, Pode-Shakked N, Dekel B	23239665	Homo sapiens	kidney cancer			GPL10850	12
+GSE39486	MicroRNA-138: A Pro-survival OncomiR for Glioma Stem Cells is Associated with Tumor Recurrence [miRNA]	Sampath P, Nama S	22921398	Homo sapiens	brain cancer	glioma		GPL15829	6
+GSE33232	Cancer Outlier Gene Profile Sets Elucidate Pathways and Patient-Specific Targets in Head and Neck Squamous Cell Carcinoma			Homo sapiens	head and neck cancer			GPL8786	284
+GSE35982	Identifying microRNA-mRNA regulatory networks in colorectal cancer by a combination of expression profile and bioinformatics analysis	Fu J, Tang W, Du P, Wang G, Chen W, Li J, Zhu Y, Gao J, Cui L	22703586	Homo sapiens	colorectal cancer			GPL14767	32
+GSE19945	A small-cell lung cancer subtype with good prognosis found by a three miRNA signature	Ohba T, Nagano H		Homo sapiens	lung cancer			GPL9948	63
+GSE36802	microRNA profiling in paired human prostate cancer and benign prostate tissue	Lin PC, Chiu YL, Banerjee S, Demichelis F, Rubin MA	23233736	Homo sapiens	prostate cancer			GPL8786	42
+GSE40744	Identification of microRNAs specifically expressed in HCV-associated hepatocellular carcinoma	Diaz G, Melis M, Tice A, Kleiner DE, Mishra L, Zamboni F, Farci P	23390000	Homo sapiens	hepatocellular carcinoma			GPL14613	76
+GSE33568	MicroRNA expression profiling of small-intestine neuroendocrine tumors and human neuroendocrine tumor cell lines	Li S, Martijn C, Essaghir A, Lloyd RV, Demoulin J, Öberg K, Giandomenico V	23328977	Homo sapiens	small intestinal neuroendocrine tumor			GPL8786 	25
+GSE45264	miRNA expression in classical Hodgkin lymphoma diseased nodes	Jones K, Gandhi MK, Keane C		Homo sapiens	lymphoma	Hodgkin lymphoma		GPL16770	22
+GSE45604	Identification of miRNAs specific for prostate cancer (PCa)	Lopez-Guerrero JA	24518785	Homo sapiens	prostate cancer			GPL14613	60
+GSE36915	MicroRNA-214 downregulation contributes to tumor angiogenesis via inducing secretion of hepatoma-derived growth factor in human hepatoma	Shih TC, Tien YJ, Wen CJ, Yeh TS	22613005	Homo sapiens	hepatocellular carcinoma			GPL8179	89
+GSE31164	Over-expression of miR-18b is associated with the grade of malignancy of hepatocallular carcinoma	Murakami Y, Tamori A, Itami S, Tanahashi T	23496901	Homo sapiens	hepatocellular carcinoma			GPL10850	110
+GSE37053	Patterns of miRNA expression in primary plasma cell leukemias: implications for tumor progression in multiple myeloma	Marta L, Pellegrino M, Sonia F, Luca A, Katia T, Laura M, Giacomo T, Vitina G, Gabriella B, Fiorella D, Teodora S, Carmela M, Luciana D, Maria Teresa P, Fortunato M, Massimo O, Francesco D, Antonietta F, Paola O, Mario B, Antonio P, Antonino N	23613318	Homo sapiens	lymphoma	multiple myeloma		GPL8227	57
+GSE47764	Cholangiocarcinoma tissues VS. corresponding normal bile duct tissues	Peng F, Qin R	24169343	Homo sapiens	liver cancer	cholangiocarcinoma		GPL11487	6
+GSE29742	MIRnome Profiling of Hereditary Pheochromocytoma and Paraganglioma Reveals Specific Signatures According to Primary Mutation: Possible Implications in the Differentiation Status of Tumor Cells	Robledo M, de Cubas AA, Lopez-Jimenez E	23660872	Homo sapiens	neuroendocrine neoplasia			GPL8227	54
+GSE26595	MicroRNA expression of primary gastric adenocarcinoma compared to non-cancer gastric tissue	Lee JS, Lim JY, Cho JY	24222951	Homo sapiens	gastric cancer			GPL8179 	68
+GSE40355	Bladder cancer: analysis of miRNA-mRNA interactions	Hecker N, Stephan C, Mollenkopf HJ, Jung K, Preissner R, Meyer HA		Homo sapiens	bladder cancer			GPL8227	48
+GSE47582	miRNA expression in primary renal carcinomas, subgrouped based on HIF1α expression	Lal P, Simon C	24189146	Homo sapiens	kidney cancer			GPL8786	26
+GSE40345	Human Mesothelioma MicroRNA Study Part 1	Hoang CD, Xu Y	23828229	Homo sapiens	mesothelioma			GPL8179	31
+GSE41874	Hepatocellular carcinoma (HCC)	Morita K		Homo sapiens	hepatocellular carcinoma			GPL7722	10
+GSE45666	MicroRNA expression profile of breast cancer patients with adjacent normal control group	Lee C, Kuo W, Oyang Y, Huang H, Juan H	23722663	Homo sapiens	breast cancer			GPL14767	116
+GSE49246	The prognostic and predictive value of a six-microRNA-based classifier in stage II colon cancer	Luo J, Xie D, Wang H	24239208	Homo sapiens	colon cancer			GPL17496 	80
+GSE32922	Comparison between hereditary breast tumors and normal breast tissue samples	Tanic M, Gómez-López G, Benítez J, Martínez-Delgado B		Homo sapiens	breast cancer			GPL7723	38
+GSE41369	Combinatorial analysis of miRNA and mRNA expression in pancreatic ductal adenocarcinoma (PDAC)_miRNA	Frampton AE	24120476	Homo sapiens	pancreatic cancer			GPL16142	18
+GSE43796	microRNA expression of pancreatic tumors	Kim H, Park M, Kim M	24072181	Homo sapiens	pancreatic cancer			GPL15159	31
+GSE29622	Complementary Strand MicroRNAs Mediate Acquisition of Metastatic Potential in Colonic AdenocarcinomamRNA and microRNA profile in colon cancer	Chen D, Yeatman T	22362069	Homo sapiens	colon cancer			GPL11162 	65
+GSE35834	Impact of miRNAs modulation on regulatory networks and pathways involved in colon cancer and metastasis development	Bortoluzzi S, Zanovello P	23987127	Homo sapiens	colon cancer			GPL8786	158
+GSE42906	Role of microRNAs and microRNA machinery in the pathogenesis of Diffuse large B-cell Lymphomas	Caramuta S, Berglund M, Lee L, Özata D, Akçakaya P, Georgii-Hemming P, Hong X, Amini R, Enbland G, Larsson C, Lui W	24121164	Homo sapiens	lymphoma			GPL9081	55
+GSE44124	profile miRNA expression in breast cancer	Feliciano A, Castellvi J, Artero A, Leal JA, Romagosa C, Hernández J, Peg V, Fabra A, Vidal F, Kondoh H, Ramón y Cajal S, Lleonart ME	24098452	Homo sapiens	breast cancer			GPL14767	53
+GSE47841	Expression data from high-grade serous ovarian carcinomas (HGSC), clear cell ovarian carcinomas (CCC) and ovarian surface epithelium (OSE)	Elgaaen BV, Olstad OK, Haug KB, Brusletto B, Sandvik L, Staff AC, Gautvik KM, Davidson B	24512620	Homo sapiens	ovarian cancer			GPL14613	30
+GSE50505	microRNA Profiling in Wilms Tumors and Kidney Tissues	Liu M, Roth A, Yu M, Morris R, Bersani F, Rivera MN, Lu J, Shioda T, Vasudevan S, Ramaswamy S, Maheswaran S, Diederichs S, Haber DA	24298054	Homo sapiens	kidney cancer	Wilms tumor		GPL17667	28
+GSE51908	miRNA expression data from normal and Malignant hematopoietic cells	Civin CI	25368993	Homo sapiens	leukemia			GPL8786 	190
+GSE54088	A systematic approach to the metastatically relevant microRNA landscape	Abba M, Benner A	26069251	Homo sapiens	colorectal cancer			GPL8178 	34
+GSE54397	microRNA expressions in gastric cancer	Chang H, Kim JM, Kim N	25167801	Homo sapiens	gastric cancer			GPL15159	32
+GSE54492	miR-638 promotes melanoma metastasis and protects melanoma cells from apoptosis and autophagy (microRNA)	Bhattacharya A, Schmitz U, Raatz Y, Schönherr M, Kottek T, Schauer M, Franz S, Saalbach A, Anderegg U, Wolkenhauer O, Schadendorf D, Simon JC, Magin T, Vera J, Kunz M	25650662	Homo sapiens	melanoma			GPL10262	25
+GSE31277	MicroRNA expression profile in Head and Neck Cancer: HOX-cluster embedded microRNA-196 and microRNA-10b dysregulation is implicated in cell proliferation	Severino P, Brüggemann H, Borges F, Pereira WO, Andreghetto FM, Camps C, de Fatima Garrido Klingbeil M, de Oliveira Pereira W, Soares RM, Moyses R, Wünsch-Filho V, Mathor MB, Nunes FD, Ragoussis J, Tajara EH	24209638	Homo sapiens	head and neck cancer			GPL9770	42
+GSE38167	Decreased expression of key tumour suppressor microRNAs is associated with lymph node metastases in triple negative breast cancer	Avery-Kiejda KA, Braye SG, Forbes JF, Scott RJ	24479446	Homo sapiens	breast cancer			GPL14943	67
+GSE40807	MiRNA expression profiling in human medullary thyroid carcinoma	Lassalle S, Hofman P, Mari B, Henaoui I, Barbry P, Lebrigand K	27036030	Homo sapiens	thyroid cancer			GPL8227	80
+GSE41012	Dynamic Transcriptome Analysis Reveal New Prognosis Biomarker in Colorectal Cancer (miRNA)	Li X		Homo sapiens	colorectal cancer			GPL7724 	35
+GSE41032	miRNA profiles of brain glioma stem cells and normal neural stem cells	Liu S	24519663	Homo sapiens	brain cancer	glioma		GPL15516	6
+GSE41655	MicroRNA expression profiling of colorectal normal mucosa, adenoma and adenocarcinoma tissues	Shi X, Zhang Y, Cao B, Lu N, Feng L, Di X, Han N, Luo C, Wang G, Cheng S, Zhang K		Homo sapiens	colorectal cancer			GPL11487	107
+GSE43039	microRNA expression profiling of human nasopharyngeal Carcinoma tissues and Chronic Nasopharyngitis specimens	Li X, Ye Y	24606633	Homo sapiens	nasopharyngeal carcinoma			GPL16414 	40
+GSE44899	miRNA expression profiling in hereditary breast tumors	Tanic M, Martinez-Delgado B, Benitez J, Marquez-Rodas I, Rodriguez-Pinilla MS, Fernandez V, Osorio A	24917463	Homo sapiens	breast cancer			GPL7723 	80
+GSE45238	Identification of oral carcinoma miRNA involved in Wnt/b-catenin signaling	Shiah S, Hsiao J, Chang J	25351956	Homo sapiens	oral squamous cell carcinoma 			GPL8179	80
+GSE45364	MicroRNA expression profiles distinguish liposarcoma subtypes and implicate miR-145 and miR-451 as tumor suppressors	Erik Wiemer	24375455	Homo sapiens	sarcoma	liposarcoma		GPL16851	115
+GSE48088	Expression of miRNAs in breast tumor from very youn women (<36) and women above 65 years old	Peña-Chilet M, Martínez MT, Pérez-Fidalgo JA, Lluch A, Bosch A, Climent J, Burgues O, Ferrer J, Martinez-Delgado B, Tormo E, Eroles P, Peiro-Chova L, Ribas G	25047087	Homo sapiens	breast cancer			GPL14613	36
+GSE48267	Differential Expression of miRNAs: Implication in Colon Cancer Racial Health Disparity	Li E, Williams J	24865442	Homo sapiens	colon cancer			GPL10850	122
+GSE51853	Lung adenocarcinoma subtypes definable by lung development-related miRNA expression profiles in association with clinicopathologic features [miRNA analysis - miRNA Microarray, pre-commercial version 6.0]	Arima C, Kajino T, Tamada Y, Imoto S, Shimada Y, Nakatochi M, Suzuki M, Isomura H, Yatabe Y, Yamaguchi T, Yanagisawa K, Miyano S, Takahashi T	24903339	Homo sapiens	lung cancer			GPL7341	131
+GSE53870	microRNA profile of human intrahepatic cholangiocarcinoma: intrahepatic cholangiocarcinoma vs. normal intrahepatic bile duct tissue	Zhang M, Li S, Wang H		Homo sapiens	liver cancer	cholangiocarcinoma		GPL18118 	72
+GSE53992	The miRNAome of O. viverrini induced cholangiocarcinoma by microarray	Plieskatt JL, Feng Y, Peng J, Yonglitthipagon P, Rinaldi G, Easley S, Lee N, Laha T, Sripa B, Brindley PJ, Mulvenna JP, Bethony JM	25017828	Homo sapiens	liver cancer	cholangiocarcinoma		GPL18159	46
+GSE56183	Integrated miRNA-mRNA analysis revealing the potential roles of miRNAs in chordomas	Long C, Jiang L, Wei F, Ma C, Zhou H, Yang S, Liu X, Liu Z		Homo sapiens	chordoma			GPL14613 	12
+GSE56350	MicroRNA profiles discriminate among colon cancer metastasis	Drusco A, Croce CM	24921248	Homo sapiens	colorectal cancer			GPL16744	104
+GSE57370	miRNA expression profiles in Wilms tumor subtypes	Ludwig N, Schmitt J	25670083	Homo sapiens	kidney cancer	Wilms tumor		GPL16770	66
+GSE57555	mRNA/microRNA expression profiles of HCC or CCC patients' liver, together with those of non-tumor part tissues	Taguchi Y, Murakami Y	26538415	Homo sapiens	hepatocellular carcinoma			GPL18044	64
+GSE57768	MicroRNA Expression in Cutaneous Squamous Cell Carcinoma	Toland A	25764000	Homo sapiens	skin cancer			GPL17537 	48
+GSE60978	mRNA and miRNA expression profiles for fresh frozen periampullary adenocarcinomas (pancreatobiliary and intestinal type) and adjacent normal tissues. [miRNA]	Sandhu V, Kure EH	25579086	Homo sapiens	pancreatic cancer			GPL15159	89
+GSE61438	Comparative microRNA profiling of sporadic and BRCA1 associated basal-like breast cancers	Yan M		Homo sapiens	breast cancer			GPL8179 	69
+GSE62054	A two miRNA classifier differentiates follicular thyroid carcinomas from follicular thyroid adenomas	Stokowy T, Eszlinger M, Paschke R		Homo sapiens	thyroid cancer			GPL8179	25
+GSE63805	Multi-platform Characterization of Stage I Lung Adenocarcinoma (miRNA profiling)	Robles AI, Harris CC	26134223	Homo sapiens	lung cancer	lung adenocarcinoma		GPL18410	62
+GSE64318	MicroRNA expression profiling of the prostate biopsy samples from African American and European American prostate cancer patients	Wang B, Lee NH	26089375	Homo sapiens	prostate cancer			GPL8227	54
+GSE65819	Whole genome characterisation of chemoresistant ovarian cancer [NanoString miRNA]	Christie EL, Etemadmoghadam D, Garsed DW, George J, Fereday S, Nones K, Cowin P, Alsop K, Bailey PJ, Kassahn KS, Newell F, Quinn MC, Kazakoff S, Quek K, Wilhelm-Benartzi C, Curry E, San H, Leong S, Hamilton A, Mileshkin L, Au-Yeung G, Kennedy C, Hung J, Chiew YE, Harnett P, Friedlander M,	26017449	Homo sapiens	ovarian cancer			GPL19765	121
+GSE66274	Integrative genomics analysis of genes with biallelic loss and its relation to the expression of mRNA and micro-RNA in esophageal squamous cell carcinoma	Hu N, Taylor PR, Yang HH	26409826	Homo sapiens	esophageal cancer			GPL19823	60
+GSE67354	miR-495 regulates multiple epigenetic modifiers in gastric cancer	Shin W, Bae H, Eun J, Shen Q, Kim H, Yang H, Ahn H, Kim H, Park W, Lee J, Nam S		Homo sapiens	gastric cancer			GPL19952	10
+GSE69580	Differential miRNA expression profiles betweenHBV-related HCC tumor versus non-tumor liver tissue	Hung C, Yen C		Homo sapiens	hepatocellular carcinoma			GPL10850	10
+GSE70574	microRNA profiles for lymph node metastasis in T1-stage colorectal cancers	Jung S, Chung Y		Homo sapiens	colorectal cancer			GPL15018	16
+GSE73487	MicroRNA signatures of colonic adenomas according to histology	Tsikitis VL, Potter A, Mori M, Buckmeier JA, Preece CR, Harrington C, Bartley A, Battacharrya A, Hamilton S, Lance P, Thompson P		Homo sapiens	colon cancer			GPL8786	113
+GSE74190	The miRNA expression profiles in three subtypes of lung carcinomas	Jin Y, Liu YL, Lu SH		Homo sapiens	lung cancer			GPL19622	136
+GSE75630	Tonsil cancer compared with normal tonsil tissue	Tran N	26867589	Homo sapiens	tonsil cancer			GPL21198	46
+GSE76260	miRNA expression profiling in prostate cancer and non-neoplastic tissues	Gandellini P, De Cecco L, Dugo M		Homo sapiens	prostate cancer			GPL8179	64
+GSE77380	MicroRNA expression profiles of pulmonary and gastrointestinal carcinoid tumors	Yoshimoto T, Ishikawa Y		Homo sapiens	lung cancer, colorectal cancer, gastric cancer			GPL16770	108
+GSE80038	The microRNAs with potential in predicting lung metastasis of triple negative breast cancer	Wang J, Xie X		Homo sapiens	breast cancer			GPL18044	20
+GSE24709	Peripheral profiles from patients with cancerous and non cancerous lung diseases	Keller A, Leidinger P		Homo sapiens	lung cancer			GPL9040	71
+GSE25609	Plasma microRNA profiling by microarray elucidates several candidate biomarkers for colorectal cancer screening	Giraldez MD, Lozano JJ, Ramirez G, Castells A, Gironella M		Homo sapiens	colon cancer	colonic adenomas		GPL8179	77
+GSE27486	Whole blood microRNA expression profiles in human non-small cell lung adenocarcinoma	Patnaik SK	23029380	Homo sapiens	lung cancer	non-small cell lung adenocarcinoma		GPL11432	45
+GSE31309	miRNA expression profiling in early stage breast cancer	Schrauder M	22242178	Homo sapiens	breast cancer	invasive ductal carcinoma		GPL14132	105
+GSE31568	The human Whole miRNOme project version 1	Keller A, Leidinger P	21892151	Homo sapiens	pancreatic cancer, melanoma, prostate cancer, ovarian cancer, gastric cancer			GPL9040	453
+GSE31801	Evaluation of microRNA expression profiles and their associations with risk alleles in lymphoblastoid cell lines of familial ovarian cancer	Shen J, Wang D, Gregory S, Medico L, Hu Q, Odunsi K, Lele SB, Ambrosone CB, Liu S, Zhao H	22235027	Homo sapiens	ovarian cancer	familial		GPL8179	121
+GSE38419	miRNA profiles of Wilms tumor patients and controls	Keller A, Backes C	22871070	Homo sapiens	kidney cancer	Wilms tumor 		GPL9040	42
+GSE39845	Tissue and blood microRNA array profiles of colorectal cancer patients	Yong FL, Law CW, Wang CW	23758639	Homo sapiens	colon cancer			GPL14613	26
+GSE41321	Differential microRNA expression profiles in Retinoblastoma serum	Beta M, Venkatesan N, Khetan V, Vasudevan M, Subramanian K	23400111	Homo sapiens	retinoblastoma			GPL148767	6
+GSE41922	Clinical Utility of Circulating MicroRNA Signatures for Breast Cancer Diagnosis (RT-PCR)	Chan M, Liaw CS, Ji SM, Tan HH et al.	23797906	Homo sapiens	breast cancer			GPL16224	54
+GSE48137	Circulating miRNA in serum of Wilms tumor patients	Ludwig N, Schmitt J		Homo sapiens	kidney cancer	Wilms tumor 		GPL16770	102
+GSE55993	What makes the blood cell-based miRNome disease specific? - miRNA analysis of leukocyte subsets in lung cancer patients and controls	Leidinger P, Backes C	25344866	Homo sapiens	lung cancer	lung adenocarcinoma		GPL16770	80
+GSE59856	MicroRNA markers for the diagnosis of pancreatic and biliary tract cancers	Kojima M, Sudo H, Kawauchi J, Takizawa S, Kondou S, Nobumasa H, Ochiai A	25706130	Homo sapiens	pancreatic cancer, biliary tract cancer, colon cancer, gastric cancer, esophagus cancer, liver cancer			GPL18941	571
+GSE65071	Plasma profiling of miRNAs in human specimens from osteosarcoma patients.	Yustein J, Allen-Rhoades W	25784290	Homo sapiens	sarcoma	osteosarcoma		GPL19631	35
+GSE71043	Expression profile of plasma microRNAs in esophageal cancer	Liao J, Liu R, Shi Y, Yin L, Pu Y		Homo sapiens	esophageal cancer			GPL18042	6
+GSE37406	Study of microRNA associated with metformin’s anti-tumor effect [pancreatic cancer]	Kato K, Masaki T		Homo sapiens	pancreatic cancer			GPL14903	24
+GSE46188	Analyses of mIRNA transcript level following exposure to triptolide	Sarver A	23635652	Homo sapiens	pancreatic adenocarcinoma			GPL8179	42
+GSE50224	MIcroRNA expression profiling of chemotherapy resistant esophageal adeno- and squamous cell carcinoma cell lines	Hussey DJ, Van der Hoek MB, Hummel R, Sie C, Watson DI, Wang T, Ansar A, Michael MZ, Haier J		Homo sapiens	esophageal cancer			GPL8786	36
+GSE53850	miRNA expression profiling of Human Myeloma Cell Lines Pre- and Post- 5'azacytidine Treatment	Bi C, Chng WJ		Homo sapiens	lymphoma	myeloma		GPL16770	8
+GSE62137	miRNA regulation by interleukin-4 (IL-4) in chronic lymphocytic leukemia (CLL)	Parrado A		Homo sapiens	chronic lymphocytic leukemia			GPL14767	44
+GSE63159	microRNA expression signatures of imatinib-treated and non-treated gastrointestinal stromal tumors	Akçakaya P, Zeljic K, Åhlen J, Gangaev A, Ghaderi M, Caramuta S, Berglund E, Bränström R, Larsson C, Lui W		Homo sapiens	gastrointestinal stromal tumor			GPL10656	34
+GSE67257	Study of microRNA associated with the anti-tumor effect of gemcitabine	Toyota Y, Masaki T	26252371	Homo sapiens	liver cancer	cholangiocellular carcinoma		GPL18941	20
+GSE74562	In vitro microRNA screening in human pancreatic adenocarcinoma	Dhayat SA, Seggewiß J		Homo sapiens	pancreatic adenocarcinoma			GPL14613	8
+TCGA_BRCA				Homo sapiens	breast cancer	breast invasive carcinoma		miRNA-seq	1163
+TCGA_KIRP				Homo sapiens	kidney cancer	kidney renal papillary cell carcinoma		miRNA-seq	324
+TCGA_KIRC				Homo sapiens	kidney cancer	kidney renal clear cell carcinoma		miRNA-seq	583
+TCGA_KICH				Homo sapiens	kidney cancer	kidney chromophobe		miRNA-seq	91
+TCGA_LUAD				Homo sapiens	lung cancer	lung adenocarcinoma		miRNA-seq	555
+TCGA_LUSC				Homo sapiens	lung cancer	lung squamous cell carcinoma		miRNA-seq	518
+TCGA_UCEC				Homo sapiens	uterus cancer	uterine corpus endometrial carcinoma		miRNA-seq	621
+TCGA_COAD				Homo sapiens	colon cancer	colon adenocarcinoma		miRNA-seq	450
+TCGA_READ				Homo sapiens	colorectal cancer	rectum adenocarcinoma		miRNA-seq	161
+TCGA_HNSC				Homo sapiens	head and neck cancer	head and neck squamous cell carcinoma		miRNA-seq	564
+TCGA_THCA				Homo sapiens	thyroid cancer	thyroid carcinoma		miRNA-seq	566
+TCGA_PRAD				Homo sapiens	prostate cancer	prostate adenocarcinoma		miRNA-seq	532
+TCGA_STAD				Homo sapiens	gastric cancer	stomach adenocarcinoma		miRNA-seq	475
+TCGA_LIHC				Homo sapiens	liver cancer	liver hepatocellular carcinoma		miRNA-seq	420
+TCGA_CESC				Homo sapiens	cervical cancer	cervical squamous cell carcinoma and endocervical adenocarcinoma		miRNA-seq	304
+TCGA_ACC				Homo sapiens	adrenocortical tumor	adrenocortical carcinoma		miRNA-seq	80
+TCGA_PAAD				Homo sapiens	pancreatic cancer	pancreatic adenocarcinoma		miRNA-seq	183
+TCGA_ESCA				Homo sapiens	esophageal cancer	esophageal carcinoma		miRNA-seq	187
+TCGA_CHOL				Homo sapiens	liver cancer	cholangiocarcinoma		miRNA-seq	45
+TCGA_SKCM				Homo sapiens	skin cancer	skin cutaneous melanoma		miRNA-seq	449
+TCGA_BLCA				Homo sapiens	bladder cancer	bladder urothelial carcinoma		miRNA-seq	426
+TCGA_TGCT				Homo sapiens	testicular cancer	testicular germ cell tumors		miRNA-seq	149
